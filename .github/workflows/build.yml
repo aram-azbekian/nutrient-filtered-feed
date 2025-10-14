@@ -1,25 +1,49 @@
 name: Build filtered feed
+
 on:
-  schedule: [{ cron: "*/60 * * * *" }]
-  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - build.js
+      - package.json
+      - .github/workflows/build.yml
+      - '**/*.md'
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 * * * *" # hourly, UTC
+
+permissions:
+  contents: write   # required for gh-pages publish
+  pages: write      # (not strictly needed for gh-pages action, but ok)
+  id-token: write   # future-proofing
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 20 }
-      - run: npm ci || npm i
-      - run: npm run build
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm ci || npm i
+
+      - name: Build feed
+        run: npm run build
         env:
           SOURCE: https://www.nutrient.io/blog/feed.xml
           KEYWORDS: iOS,Objective-C,Swift,SwiftUI
           FEED_TITLE: Nutrient Blog — iOS & Swift (filtered)
-          SELF_URL: https://aram-azbekian.github.io/nutrient-ios-swift.xml
-      - name: Publish to GitHub Pages
+          SELF_URL: https://YOUR_USERNAME.github.io/nutrient-ios-swift.xml
+
+      - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: .
+          keep_files: true
           force_orphan: true
