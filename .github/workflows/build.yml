@@ -21,33 +21,33 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15           # <-- prevent “stuck” jobs
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
       - name: Show workspace files
         run: |
-           pwd
-           ls -la
-           echo "GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
-           [ -f package-lock.json ] && echo "Found package-lock.json" || echo "NO package-lock.json"
+          pwd
+          ls -la
+          echo "GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
+          [ -f package-lock.json ] && echo "Found package-lock.json" || echo "NO package-lock.json"
 
       - name: Setup Node with cache (if lockfile present)
-  if: ${{ hashFiles('package-lock.json', 'npm-shrinkwrap.json', 'yarn.lock') != '' }}
-  uses: actions/setup-node@v4
-  with:
-    node-version: 20
-    cache: npm
-    cache-dependency-path: |
-      package-lock.json
-      npm-shrinkwrap.json
-      yarn.lock
+        if: ${{ hashFiles('package-lock.json', 'npm-shrinkwrap.json', 'yarn.lock') != '' }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: |
+            package-lock.json
+            npm-shrinkwrap.json
+            yarn.lock
 
       - name: Setup Node (no cache)
-  if: ${{ hashFiles('package-lock.json', 'npm-shrinkwrap.json', 'yarn.lock') == '' }}
-  uses: actions/setup-node@v4
-  with:
-    node-version: 20
+        if: ${{ hashFiles('package-lock.json', 'npm-shrinkwrap.json', 'yarn.lock') == '' }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
       - name: Guard against placeholders
         run: |
@@ -66,7 +66,6 @@ jobs:
           KEYWORDS: iOS,Objective-C,Swift,SwiftUI
           FEED_TITLE: Nutrient Blog — iOS & Swift (filtered)
           SELF_URL: https://${{ env.OWNER }}.github.io/nutrient-ios-swift.xml
-          # knobs for stability; your build.js can read these if present:
           MAX_ITEMS: "120"
           CONCURRENCY: "6"
           TIMEOUT_MS: "15000"
