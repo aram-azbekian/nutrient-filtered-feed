@@ -16,13 +16,12 @@ on:
     - cron: "0 * * * *" # hourly, UTC
 
 permissions:
-  contents: write   # required for gh-pages publish
-  pages: write      # (not strictly needed for gh-pages action, but ok)
-  id-token: write   # future-proofing
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15           # <-- prevent “stuck” jobs
     steps:
       - uses: actions/checkout@v4
 
@@ -30,9 +29,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm               # <-- speeds up installs
+
+      - name: Guard against placeholders
+        run: |
+          if grep -R "YOUR_USERNAME" -n .github/workflows || grep -R "YOUR_USERNAME" -n build.js; then
+            echo "Placeholder YOUR_USERNAME found. Please replace it." >&2
+            exit 1
+          fi
 
       - name: Install deps
-        run: npm ci || npm i
+        run: npm ci --no-audit --no-fund || npm i --no-audit --no-fund
 
       - name: Build feed
         run: npm run build
@@ -41,6 +48,11 @@ jobs:
           KEYWORDS: iOS,Objective-C,Swift,SwiftUI
           FEED_TITLE: Nutrient Blog — iOS & Swift (filtered)
           SELF_URL: https://${{ env.OWNER }}.github.io/nutrient-ios-swift.xml
+          # knobs for stability; your build.js can read these if present:
+          MAX_ITEMS: "120"
+          CONCURRENCY: "6"
+          TIMEOUT_MS: "15000"
+          RETRIES: "2"
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v3
