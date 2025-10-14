@@ -56,7 +56,7 @@ jobs:
         run: npm run build
         env:
           SOURCE: https://www.nutrient.io/blog/feed.xml
-          KEYWORDS: Objective,Swift,SwiftUI
+          KEYWORDS: Objective-C,Swift,SwiftUI
           FEED_TITLE: Nutrient Blog — iOS & Swift (filtered)
           SELF_URL: https://${{ env.OWNER }}.github.io/nutrient-ios-swift.xml
           MAX_ITEMS: "120"

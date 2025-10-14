@@ -6,7 +6,7 @@ import crypto from "crypto";
 import { writeFileSync } from "fs";
 
 const SOURCE = process.env.SOURCE || "https://www.nutrient.io/blog/feed.xml";
-const KEYWORDS = (process.env.KEYWORDS || "Objective,Swift,SwiftUI")
+const KEYWORDS = (process.env.KEYWORDS || "Objective-C,Swift,SwiftUI")
   .split(",").map(s => s.trim().toLowerCase()).filter(Boolean);
 const repoOwner = process.env.OWNER
   || process.env.GITHUB_REPOSITORY?.split("/")?.[0]
@@ -38,7 +38,23 @@ const textFromHtml = (html) => {
   return article.textContent.replace(/\s+/g, " ").trim().toLowerCase();
 };
 
-const matches = (haystack) => KEYWORDS.some(k => haystack.includes(k));
+const isWordChar = (ch) => !!ch && /[a-z0-9]/.test(ch);
+const matches = (haystack) => {
+  if (!haystack) return false;
+  for (const keyword of KEYWORDS) {
+    let idx = haystack.indexOf(keyword);
+    while (idx !== -1) {
+      const before = idx === 0 ? "" : haystack[idx - 1];
+      const afterIdx = idx + keyword.length;
+      const after = afterIdx >= haystack.length ? "" : haystack[afterIdx];
+      if (!isWordChar(before) && !isWordChar(after)) {
+        return true;
+      }
+      idx = haystack.indexOf(keyword, idx + keyword.length);
+    }
+  }
+  return false;
+};
 
 const normalizeRssItems = (parsed) => {
   const ch = parsed?.rss?.channel?.[0];
