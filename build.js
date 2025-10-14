@@ -8,7 +8,15 @@ import { writeFileSync } from "fs";
 const SOURCE = process.env.SOURCE || "https://www.nutrient.io/blog/feed.xml";
 const KEYWORDS = (process.env.KEYWORDS || "iOS,Objective-C,Swift,SwiftUI")
   .split(",").map(s => s.trim().toLowerCase()).filter(Boolean);
-const SELF_URL = process.env.SELF_URL || "https://YOUR_USERNAME.github.io/nutrient-ios-swift.xml";
+const repoOwner = process.env.OWNER
+  || process.env.GITHUB_REPOSITORY?.split("/")?.[0]
+  || "";
+const SELF_URL = process.env.SELF_URL
+  || (repoOwner ? `https://${repoOwner}.github.io/nutrient-ios-swift.xml` : "");
+if (!SELF_URL) {
+  console.error("SELF_URL missing; set env OWNER or SELF_URL.");
+  process.exit(1);
+}
 const FEED_TITLE = process.env.FEED_TITLE || "Nutrient Blog — iOS & Swift (filtered)";
 const UA = "KeywordFeed/1.0 (+https://github.com/YOUR_USERNAME)";
 
