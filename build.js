@@ -6,7 +6,7 @@ import crypto from "crypto";
 import { writeFileSync } from "fs";
 
 const SOURCE = process.env.SOURCE || "https://www.nutrient.io/blog/feed.xml";
-const KEYWORDS = (process.env.KEYWORDS || "iOS,Objective-C,Swift,SwiftUI")
+const KEYWORDS = (process.env.KEYWORDS || "Objective,Swift,SwiftUI")
   .split(",").map(s => s.trim().toLowerCase()).filter(Boolean);
 const repoOwner = process.env.OWNER
   || process.env.GITHUB_REPOSITORY?.split("/")?.[0]
