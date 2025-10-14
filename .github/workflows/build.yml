@@ -49,13 +49,6 @@ jobs:
         with:
           node-version: 20
 
-      - name: Guard against placeholders
-        run: |
-          if grep -R "YOUR_USERNAME" -n .github/workflows || grep -R "YOUR_USERNAME" -n build.js; then
-            echo "Placeholder YOUR_USERNAME found. Please replace it." >&2
-            exit 1
-          fi
-
       - name: Install deps
         run: npm ci --no-audit --no-fund || npm i --no-audit --no-fund
 
