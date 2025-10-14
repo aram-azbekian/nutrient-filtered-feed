@@ -18,7 +18,7 @@ if (!SELF_URL) {
   process.exit(1);
 }
 const FEED_TITLE = process.env.FEED_TITLE || "Nutrient Blog — iOS & Swift (filtered)";
-const UA = "KeywordFeed/1.0 (+https://github.com/YOUR_USERNAME)";
+const UA = "KeywordFeed/1.0 (+https://github.com/${repoOwner})";
 
 const rfc822 = d => new Date(d).toUTCString();
 const sha1 = s => crypto.createHash("sha1").update(s).digest("hex");
