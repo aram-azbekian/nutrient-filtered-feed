@@ -6,16 +6,18 @@ import crypto from "crypto";
 import { writeFileSync } from "fs";
 
 const SOURCE = process.env.SOURCE || "https://www.nutrient.io/blog/feed.xml";
-const KEYWORDS = (process.env.KEYWORDS || "Objective-C,Swift,SwiftUI")
-  .split(",").map(s => s.trim().toLowerCase()).filter(Boolean);
+const KEYWORD_SOURCE = process.env.KEYWORDS || "Objective-C,Swift,SwiftUI,Xcode";
+const KEYWORDS = KEYWORD_SOURCE.split(",").map(s => s.trim()).filter(Boolean);
+const KEYWORDS_LOWER = KEYWORDS.map(k => k.toLowerCase());
 const repoOwner = process.env.OWNER
   || process.env.GITHUB_REPOSITORY?.split("/")?.[0]
   || "";
-const SELF_URL = process.env.SELF_URL
-  || (repoOwner ? `https://${repoOwner}.github.io/nutrient-ios-swift.xml` : "");
-if (!SELF_URL) {
-  console.error("SELF_URL missing; set env OWNER or SELF_URL.");
-  process.exit(1);
+const defaultSelfUrl = repoOwner
+  ? `https://${repoOwner}.github.io/nutrient-ios-swift.xml`
+  : "https://localhost/nutrient-ios-swift.xml";
+const SELF_URL = process.env.SELF_URL || defaultSelfUrl;
+if (!process.env.SELF_URL && !repoOwner) {
+  console.warn("SELF_URL not set; defaulting to https://localhost/nutrient-ios-swift.xml");
 }
 const FEED_TITLE = process.env.FEED_TITLE || "Nutrient Blog — iOS & Swift (filtered)";
 const UA = "KeywordFeed/1.0 (+https://github.com/${repoOwner})";
@@ -30,31 +32,29 @@ const fetchText = async (url) => {
   return r.headers.get("content-type")?.includes("xml") ? await r.text() : await r.text();
 };
 
-const textFromHtml = (html) => {
+const TAG_PREFIX = "/blog/tags/";
+
+const extractArticleInfo = (html) => {
   const dom = new JSDOM(html);
-  // Grab article content. Fallback to whole body if needed.
-  const doc = dom.window.document;
-  const article = doc.querySelector("article") || doc.querySelector("main") || doc.body;
-  return article.textContent.replace(/\s+/g, " ").trim().toLowerCase();
+  try {
+    const doc = dom.window.document;
+    const scope = doc.querySelector("article") || doc.querySelector("main") || doc.body;
+    const tagSlugs = Array.from(scope?.querySelectorAll(`a[href^="${TAG_PREFIX}"]`) || [])
+      .map(a => (a.getAttribute("href") || "").trim())
+      .map(href => {
+        const rest = href.slice(TAG_PREFIX.length);
+        const beforeQuery = rest.split(/[?#]/)[0];
+        const segment = beforeQuery.split("/").filter(Boolean)[0] || "";
+        return decodeURIComponent(segment).toLowerCase();
+      })
+      .filter(Boolean);
+    return { tagSlugs };
+  } finally {
+    dom.window.close();
+  }
 };
 
-const isWordChar = (ch) => !!ch && /[a-z0-9]/.test(ch);
-const matches = (haystack) => {
-  if (!haystack) return false;
-  for (const keyword of KEYWORDS) {
-    let idx = haystack.indexOf(keyword);
-    while (idx !== -1) {
-      const before = idx === 0 ? "" : haystack[idx - 1];
-      const afterIdx = idx + keyword.length;
-      const after = afterIdx >= haystack.length ? "" : haystack[afterIdx];
-      if (!isWordChar(before) && !isWordChar(after)) {
-        return true;
-      }
-      idx = haystack.indexOf(keyword, idx + keyword.length);
-    }
-  }
-  return false;
-};
+const tagsMatch = (slugs) => slugs?.some(slug => KEYWORDS_LOWER.includes(slug)) || false;
 
 const normalizeRssItems = (parsed) => {
   const ch = parsed?.rss?.channel?.[0];
@@ -89,8 +89,8 @@ const run = async () => {
     if (!it.link) continue;
     try {
       const html = await fetchText(it.link);
-      const content = textFromHtml(html);
-      if (matches(content)) {
+      const { tagSlugs } = extractArticleInfo(html);
+      if (tagsMatch(tagSlugs)) {
         filtered.push({
           ...it,
           guid: it.guid || `urn:guid:${sha1((it.link||"") + "|" + (it.title||""))}`,

@@ -1,8 +1,5 @@
 name: Build filtered feed
 
-env:
-  OWNER: ${{ github.repository_owner }}
-
 on:
   push:
     branches: [ main ]
@@ -54,15 +51,6 @@ jobs:
 
       - name: Build feed
         run: npm run build
-        env:
-          SOURCE: https://www.nutrient.io/blog/feed.xml
-          KEYWORDS: Objective-C,Swift,SwiftUI
-          FEED_TITLE: Nutrient Blog — iOS & Swift (filtered)
-          SELF_URL: https://${{ env.OWNER }}.github.io/nutrient-ios-swift.xml
-          MAX_ITEMS: "120"
-          CONCURRENCY: "6"
-          TIMEOUT_MS: "15000"
-          RETRIES: "2"
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v3
