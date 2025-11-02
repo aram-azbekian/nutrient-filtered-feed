@@ -1,0 +1,2418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Nutrient Blog — iOS & Swift (filtered)</title>
+    <link>https://aram-azbekian.github.io/nutrient-ios-swift.xml</link>
+    <description>Filtered by content-only keywords: iOS, Objective-C, Swift, SwiftUI, Xcode</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Aug 2025 10:00:00 GMT</lastBuildDate>
+    <ttl>30</ttl>
+    <atom:link href="https://aram-azbekian.github.io/nutrient-ios-swift.xml" rel="self" type="application/rss+xml"/>
+<item>
+      <title><![CDATA[A deep dive into notifications and messages on iOS 26]]></title>
+      <link>https://www.nutrient.io/blog/notification-center/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/notification-center/</guid>
+      <pubDate>Wed, 20 Aug 2025 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CMPXU-lD.png" alt="A deep dive into notifications and messages on iOS 26" /></p>Exploring iOS 26’s new Messages API for type-safe notifications and how it addresses concurrency challenges in modern Swift development.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Exploring interactive snippet intents]]></title>
+      <link>https://www.nutrient.io/blog/wwdc25-snippet-intents/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/wwdc25-snippet-intents/</guid>
+      <pubDate>Mon, 18 Aug 2025 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DUnk34va.jpg" alt="Exploring interactive snippet intents" /></p>A hands-on exploration of iOS 26’s interactive snippet intents, detailing the learnings and patterns required to create seamless, multistep user experiences outside of an app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[WWDC at Nutrient]]></title>
+      <link>https://www.nutrient.io/blog/wwdc-at-nutrient/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/wwdc-at-nutrient/</guid>
+      <pubDate>Mon, 28 Jul 2025 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.dKOLXa3-.png" alt="WWDC at Nutrient" /></p>A look at how Nutrient’s iOS team approaches Apple’s Worldwide Developers Conference.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Beyond iPhone: Developing across Apple platforms]]></title>
+      <link>https://www.nutrient.io/blog/developing-across-apple-platforms/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/developing-across-apple-platforms/</guid>
+      <pubDate>Fri, 06 Jun 2025 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.SjgEwMbU.png" alt="Beyond iPhone: Developing across Apple platforms" /></p>A quick overview of the available options for codebases that work across Apple platforms and how a pragmatism-over-polish mindset is the way forward. Based on a lightning talk at Swift Craft 2025.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[AI Assistant for iOS and Android: Intelligent document interaction, now in your users’ pockets]]></title>
+      <link>https://www.nutrient.io/blog/ai-assistant-ios-android/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ai-assistant-ios-android/</guid>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CMqxzyuK.png" alt="AI Assistant for iOS and Android: Intelligent document interaction, now in your users’ pockets" /></p>AI Assistant is now available in Nutrient iOS SDK and Nutrient Android SDK for intelligent document interaction.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Life on the iOS team at Nutrient: Building for the long term]]></title>
+      <link>https://www.nutrient.io/blog/life-on-the-ios-team/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/life-on-the-ios-team/</guid>
+      <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C0rPVst-.jpg" alt="Life on the iOS team at Nutrient: Building for the long term" /></p>Working on the iOS team at Nutrient is different from many other iOS development roles. Our iOS team lead shares insights into how we work, the challenges we face, and what’s important to us.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Choosing the best way to send emails in an iOS app]]></title>
+      <link>https://www.nutrient.io/blog/choosing-the-best-way-to-send-emails-in-an-ios-app/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/choosing-the-best-way-to-send-emails-in-an-ios-app/</guid>
+      <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DS8jbXtL.png" alt="Choosing the best way to send emails in an iOS app" /></p>Comparing ShareLink, mailto links, and MFMailComposeViewController for integrating sending emails into an iOS app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Haptic feedback across iPad and iPhone]]></title>
+      <link>https://www.nutrient.io/blog/haptic-feedback-across-ipad-and-iphone/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/haptic-feedback-across-ipad-and-iphone/</guid>
+      <pubDate>Wed, 15 Jan 2025 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CZ2zTAeD.jpg" alt="Haptic feedback across iPad and iPhone" /></p>Implementing haptic feedback on iOS by bridging the gap between iPhone and iPad with device checks, because sometimes, 'trust the system' isn’t enough.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Creating interactive tutorials using DocC]]></title>
+      <link>https://www.nutrient.io/blog/creating-interactive-tutorials-using-docc/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/creating-interactive-tutorials-using-docc/</guid>
+      <pubDate>Thu, 12 Dec 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BqJgwTYV.png" alt="Creating interactive tutorials using DocC" /></p>Create high-quality tutorials using DocC.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Nutrient SDK 14.2: iOS 18.1 features]]></title>
+      <link>https://www.nutrient.io/blog/nutrient-sdk-updates-ios-18-1-writing-tools-translate-native-system-text-selection/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/nutrient-sdk-updates-ios-18-1-writing-tools-translate-native-system-text-selection/</guid>
+      <pubDate>Mon, 18 Nov 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.JvHXquvQ.jpg" alt="Nutrient SDK 14.2: iOS 18.1 features" /></p>Explore the new features of iOS 18.1, including Writing Tools and Translate in Nutrient SDK 14.2, to elevate your app's productivity and accessibility.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Customizable SwiftUI toolbar API for developers]]></title>
+      <link>https://www.nutrient.io/blog/swiftui-main-toolbar/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swiftui-main-toolbar/</guid>
+      <pubDate>Tue, 05 Nov 2024 08:30:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/expanding_swiftui_capabilities_in_nutrient_customizable_main_toolbar.DNudaLco.jpg" alt="Customizable SwiftUI toolbar API for developers" /></p>At Nutrient, our mission is to continually enhance the capabilities of our SDKs, making them more powerful and flexible for our customers to use. One of our recent focus areas has been enhancing the SwiftUI capabilities of <a href='/sdk/ios'>Nutrient iOS SDK</a>. In particular, we improved our API for customizing the main toolbar.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Nutrient iOS SDK 14 brings full support for Apple's iOS 18]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-14-for-ios-18/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-14-for-ios-18/</guid>
+      <pubDate>Fri, 20 Sep 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BwtazTV_.jpg" alt="Nutrient iOS SDK 14 brings full support for Apple's iOS 18" /></p>We're proud to announce the release of Nutrient iOS SDK 14, offering full support for Apple's iOS 18.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Dark and Tinted Alternative App Icons]]></title>
+      <link>https://www.nutrient.io/blog/dark-tinted-alternative-app-icons/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/dark-tinted-alternative-app-icons/</guid>
+      <pubDate>Thu, 05 Sep 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.xMujmsPq.png" alt="Dark and Tinted Alternative App Icons" /></p>Updating how we implemented alternative app icons to support iOS 18’s new dark and tinted app icons.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The rise of generative AI on mobile devices]]></title>
+      <link>https://www.nutrient.io/blog/future-of-generative-ai-on-mobile/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/future-of-generative-ai-on-mobile/</guid>
+      <pubDate>Tue, 06 Aug 2024 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CC2gkbqT.jpg" alt="The rise of generative AI on mobile devices" /></p>The emergence of generative AI on mobile devices and what AI could bring.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 13.8 for iOS Brings SwiftUI API to the Main Toolbar]]></title>
+      <link>https://www.nutrient.io/blog/13-8-ios-swift-ui-api-main-toolbar/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/13-8-ios-swift-ui-api-main-toolbar/</guid>
+      <pubDate>Fri, 26 Jul 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B8jIfpWt.png" alt="PSPDFKit 13.8 for iOS Brings SwiftUI API to the Main Toolbar" /></p>SwiftUI API is unleashed to the main toolbar in the PSPDFKit 13.8 for iOS update.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Investigating a dynamic linking crash with Xcode 16]]></title>
+      <link>https://www.nutrient.io/blog/dynamic-linking-crash-xcode-16/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/dynamic-linking-crash-xcode-16/</guid>
+      <pubDate>Thu, 18 Jul 2024 08:30:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D54wQCR7.png" alt="Investigating a dynamic linking crash with Xcode 16" /></p>Debugging and fixing a crash we noticed after updating to Xcode 16.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Room database for Kotlin Multiplatform projects]]></title>
+      <link>https://www.nutrient.io/blog/seamless-room-database-integration-for-kotlin-multiplatform-projects/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/seamless-room-database-integration-for-kotlin-multiplatform-projects/</guid>
+      <pubDate>Wed, 10 Jul 2024 07:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CxuJW_Yf.jpg" alt="Room database for Kotlin Multiplatform projects" /></p>Learn how to seamlessly integrate the Room database into Kotlin Multiplatform projects for local data management.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[NSCopying in a Swift world]]></title>
+      <link>https://www.nutrient.io/blog/nscopying-in-a-swift-world/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/nscopying-in-a-swift-world/</guid>
+      <pubDate>Tue, 09 Jul 2024 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Cxk-3D2q.png" alt="NSCopying in a Swift world" /></p>An exploration into how a modern Swift programming mindset clashes with Objective-C’s NSCopying protocol.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to sign a PDF on iOS with Nutrient’s signature library]]></title>
+      <link>https://www.nutrient.io/blog/how-to-sign-a-pdf-in-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-sign-a-pdf-in-ios/</guid>
+      <pubDate>Thu, 04 Jul 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.fBPsnTZS.png" alt="How to sign a PDF on iOS with Nutrient’s signature library" /></p>In this post, you'll learn how to programmatically add electronic and digital signatures to a PDF in your iOS application using Nutrient's iOS signature library.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Apple Intelligence: A new era in privacy-first AI]]></title>
+      <link>https://www.nutrient.io/blog/openai-and-apple-at-wwdc-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/openai-and-apple-at-wwdc-pspdfkit/</guid>
+      <pubDate>Tue, 11 Jun 2024 21:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DqzOmAwP.png" alt="Apple Intelligence: A new era in privacy-first AI" /></p>Explore Jonathan's insights on Apple's AI strategy at WWDC24, emphasizing privacy, context, and the partnership with OpenAI for enhanced user experiences.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Generating API documentation for multiple targets with DocC]]></title>
+      <link>https://www.nutrient.io/blog/generating-api-documentation-for-multiple-targets-with-docc/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/generating-api-documentation-for-multiple-targets-with-docc/</guid>
+      <pubDate>Wed, 29 May 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CTsKekou.jpg" alt="Generating API documentation for multiple targets with DocC" /></p>Follow our process of utilizing DocC to create combined API documentation for multiple frameworks.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Privacy Manifests and Required Reason APIs on iOS]]></title>
+      <link>https://www.nutrient.io/blog/privacy-manifests-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/privacy-manifests-on-ios/</guid>
+      <pubDate>Wed, 24 Apr 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.1IE-DEiB.png" alt="Privacy Manifests and Required Reason APIs on iOS" /></p>What privacy manifests and required reason APIs are, and the approach taken by PSPDFKit for adding support for these requirements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 13.4 for iOS: API & Annotation Improvements]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-13-4-ios-multiple-annotation-selection/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-13-4-ios-multiple-annotation-selection/</guid>
+      <pubDate>Tue, 26 Mar 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.wRoNj_fb.png" alt="PSPDFKit 13.4 for iOS: API & Annotation Improvements" /></p>Explore the new features of PSPDFKit 13.4, from revamped API documentation to enhanced multiple annotation selection and navigation links.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Apple’s vision of our digital future]]></title>
+      <link>https://www.nutrient.io/blog/apple-vision-future/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/apple-vision-future/</guid>
+      <pubDate>Tue, 30 Jan 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CywXTHor.png" alt="Apple’s vision of our digital future" /></p>Bridging reality and imagination in the digital age through spatial computing and innovative software.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Nutrient 13.3: LTV for digital signatures]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-13-3-ios-visionos/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-13-3-ios-visionos/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CSUMGPcC.png" alt="Nutrient 13.3: LTV for digital signatures" /></p>Explore Nutrient iOS SDK 13.3, featuring long-term validation for digital signatures and support for visionOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 13.2 for iOS Improves Advanced Digital Signatures]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-13-2-ios-advanced-digital-signatures/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-13-2-ios-advanced-digital-signatures/</guid>
+      <pubDate>Tue, 19 Dec 2023 16:40:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C1j86TVr.png" alt="PSPDFKit 13.2 for iOS Improves Advanced Digital Signatures" /></p>PSPDFKit 13.2 for iOS adds a flexible new API for Digital Signatures. Additionally, a public preview of PSPDFKit for visionOS is now available.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Debugging in iOS: Resolving UITextView flickering issues]]></title>
+      <link>https://www.nutrient.io/blog/resolve-forms-uitextview-issue/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/resolve-forms-uitextview-issue/</guid>
+      <pubDate>Sun, 17 Dec 2023 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BhCWlGhp.png" alt="Debugging in iOS: Resolving UITextView flickering issues" /></p>A debugging story that includes some tips and tricks]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Using Asset Catalogs for Images]]></title>
+      <link>https://www.nutrient.io/blog/ios-asset-catalogs/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ios-asset-catalogs/</guid>
+      <pubDate>Tue, 12 Dec 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CqfsjSMH.png" alt="Using Asset Catalogs for Images" /></p>We discuss the various features of asset catalogs relating to images.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Edit PDFs in an iOS Application Using a PDF Library]]></title>
+      <link>https://www.nutrient.io/blog/how-to-edit-pdfs-using-ios-pdf-library/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-edit-pdfs-using-ios-pdf-library/</guid>
+      <pubDate>Wed, 20 Sep 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.MtnQayjV.png" alt="How to Edit PDFs in an iOS Application Using a PDF Library" /></p>Learn how to edit PDFs in your application using PSPDFKit's iOS PDF library. Learn to edit, crop, rotate, watermark & attach files to PDFs in your iOS app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 13 for iOS 17]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-13-for-ios-17/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-13-for-ios-17/</guid>
+      <pubDate>Wed, 20 Sep 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BftCtsu_.png" alt="PSPDFKit 13 for iOS 17" /></p>PSPDFKit 13 for iOS adds support for Apple's new operating system versions, improvements to Measurement Tools, and more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adopting UITextInteraction]]></title>
+      <link>https://www.nutrient.io/blog/adopting-uitextinteraction/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/adopting-uitextinteraction/</guid>
+      <pubDate>Fri, 08 Sep 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CKmkY6Ey.png" alt="Adopting UITextInteraction" /></p>Learn how to add UITextInteraction to a custom text input element on iOS, iPadOS, and macOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Exploring SwiftUI for seamless app development]]></title>
+      <link>https://www.nutrient.io/blog/tryst-with-swiftui/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/tryst-with-swiftui/</guid>
+      <pubDate>Wed, 12 Jul 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C2dq2mGe.png" alt="Exploring SwiftUI for seamless app development" /></p>Read about an engineer's journey using SwiftUI for creating intuitive iOS UI components, enhancing the app development experience.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Vision Is an Exciting Addition to Apple’s Lineup]]></title>
+      <link>https://www.nutrient.io/blog/vision-is-additive/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/vision-is-additive/</guid>
+      <pubDate>Tue, 11 Jul 2023 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BrRBrqJa.png" alt="Vision Is an Exciting Addition to Apple’s Lineup" /></p>Considering how Apple’s newly announced Vision platform could fit in with its existing platforms.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 12.3 for iOS Adds Improvements to Content Editor]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-12-3-ios-content-editor-improvements/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-12-3-ios-content-editor-improvements/</guid>
+      <pubDate>Tue, 06 Jun 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.xZe0bNkg.png" alt="PSPDFKit 12.3 for iOS Adds Improvements to Content Editor" /></p>This release adds improvements to Content Editor and includes modernization of our text and image selection menus.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Customizable UI components on iOS using UIKit]]></title>
+      <link>https://www.nutrient.io/blog/customizable-ui-components/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/customizable-ui-components/</guid>
+      <pubDate>Wed, 24 May 2023 07:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D6ic5TVd.png" alt="Customizable UI components on iOS using UIKit" /></p>Providing UI components in UIKit that allow user customization while also providing a default style that works in most cases.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Conditional Compilation for Apple’s Yearly Updates]]></title>
+      <link>https://www.nutrient.io/blog/conditional-compilation-apple-yearly-updates/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/conditional-compilation-apple-yearly-updates/</guid>
+      <pubDate>Tue, 16 May 2023 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DiFaCdgp.png" alt="Conditional Compilation for Apple’s Yearly Updates" /></p>How to smoothly transition an iOS and Mac Catalyst app for Apple’s yearly updates between June and October.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Developing Mixed-Source Swift Packages]]></title>
+      <link>https://www.nutrient.io/blog/developing-mixed-source-swift-packages/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/developing-mixed-source-swift-packages/</guid>
+      <pubDate>Tue, 02 May 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DuzseK4Y.png" alt="Developing Mixed-Source Swift Packages" /></p>Tips for publishing Swift packages that include both Swift and Objective-C source files.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Swift's approach to SPI]]></title>
+      <link>https://www.nutrient.io/blog/swifts-approach-to-spi/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swifts-approach-to-spi/</guid>
+      <pubDate>Fri, 03 Mar 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C-VVHXUn.png" alt="Swift's approach to SPI" /></p>A closer look at how to design a System Programming Interface (SPI) in Swift.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Optimizing annotation drawing performance]]></title>
+      <link>https://www.nutrient.io/blog/ios-ink-improvements/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ios-ink-improvements/</guid>
+      <pubDate>Mon, 20 Feb 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Dj2rrvzu.png" alt="Optimizing annotation drawing performance" /></p>How we optimized ink annotations and improved performance of several SDK components.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 12.1 for iOS Adds Content Editor]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-12-1-ios-content-editor/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-12-1-ios-content-editor/</guid>
+      <pubDate>Mon, 20 Feb 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DSZBP6s3.png" alt="PSPDFKit 12.1 for iOS Adds Content Editor" /></p>This release of our iOS PDF library adds support for editing original text in PDFs and introduces an overhauled sharing UI.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[SourceKit limitations in Swift API docs]]></title>
+      <link>https://www.nutrient.io/blog/api-documentation-update/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/api-documentation-update/</guid>
+      <pubDate>Wed, 11 Jan 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.VpyNOyTx.png" alt="SourceKit limitations in Swift API docs" /></p>Explore how we tackled limitations in SourceKit while improving Swift-first API documentation for PSPDFKit, ensuring better developer experience.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 12 for iOS 16]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-12-for-ios-16/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-12-for-ios-16/</guid>
+      <pubDate>Wed, 19 Oct 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Dl7MmFZc.png" alt="PSPDFKit 12 for iOS 16" /></p>PSPDFKit 12 for iOS adds support for Apple's new operating system version, new edit menus, support for Hebrew, and more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adding a Document Viewer to a Mac Catalyst App]]></title>
+      <link>https://www.nutrient.io/blog/mac-catalyst-viewer/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/mac-catalyst-viewer/</guid>
+      <pubDate>Mon, 22 Aug 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Dt1a3H0H.png" alt="Adding a Document Viewer to a Mac Catalyst App" /></p>We discuss how a PDF document viewer can be added to a Mac Catalyst app using the PSPDFKit SDK.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 11.5 for iOS Adds Measurement Tools]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-11-5-ios-measurement-tools/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-11-5-ios-measurement-tools/</guid>
+      <pubDate>Thu, 18 Aug 2022 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Bi6bYBNc.png" alt="PSPDFKit 11.5 for iOS Adds Measurement Tools" /></p>This update includes our new Measurement Tools component and refreshes the appearance of some key elements in our user interface.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PDF measurement tools for architects and engineers]]></title>
+      <link>https://www.nutrient.io/blog/announcing-pspdfkit-measurement-tools/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/announcing-pspdfkit-measurement-tools/</guid>
+      <pubDate>Tue, 16 Aug 2022 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.kSivLr5_.png" alt="PDF measurement tools for architects and engineers" /></p>Discover PDF measurement tools for accurate distance, area, and perimeter measurements directly in your documents.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Download Failures with Swift Package Manager Binary Targets]]></title>
+      <link>https://www.nutrient.io/blog/download-failures-with-swift-package-manager-binary-targets/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/download-failures-with-swift-package-manager-binary-targets/</guid>
+      <pubDate>Wed, 03 Aug 2022 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BShhUIlJ.png" alt="Download Failures with Swift Package Manager Binary Targets" /></p>A tale of how reading an error message more carefully allowed us to work around an issue with our tooling.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Replicating the iOS Text Magnifying Glass]]></title>
+      <link>https://www.nutrient.io/blog/replicating-ios-text-magnifying-glass/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/replicating-ios-text-magnifying-glass/</guid>
+      <pubDate>Wed, 06 Jul 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CQwVH2FO.png" alt="Replicating the iOS Text Magnifying Glass" /></p>A dive into details of how we replicated the system magnifying glass on iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Our Attempt at Rewriting PSPDFKit Catalog in SwiftUI]]></title>
+      <link>https://www.nutrient.io/blog/rewriting-catalog-in-swiftui/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/rewriting-catalog-in-swiftui/</guid>
+      <pubDate>Wed, 15 Jun 2022 15:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B-tFEdvI.png" alt="Our Attempt at Rewriting PSPDFKit Catalog in SwiftUI" /></p>We tried rewriting a part of our PSPDFKit Catalog example project in SwiftUI. Here's what we learned.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 11.4 for iOS Adds Electronic Signature Customizations]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-11-4-ios-electronic-signature-customizations/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-11-4-ios-electronic-signature-customizations/</guid>
+      <pubDate>Tue, 31 May 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CQjOXtwP.png" alt="PSPDFKit 11.4 for iOS Adds Electronic Signature Customizations" /></p>PSPDFKit 11.4 for iOS adds more customization options to Electronic Signatures and sunsets support for iOS 13.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Cross-platform mobile frameworks — An iOS engineer's perspective]]></title>
+      <link>https://www.nutrient.io/blog/cross-platform-mobile-frameworks/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/cross-platform-mobile-frameworks/</guid>
+      <pubDate>Wed, 25 May 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Dy5NmcuO.png" alt="Cross-platform mobile frameworks — An iOS engineer's perspective" /></p>What I learned while working on cross-platform mobile frameworks.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 11.3 for iOS Adds Cloud Annotation Tool]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-11-3-ios-cloud-annotation/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-11-3-ios-cloud-annotation/</guid>
+      <pubDate>Thu, 24 Mar 2022 11:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CUbG1ff-.png" alt="PSPDFKit 11.3 for iOS Adds Cloud Annotation Tool" /></p>PSPDFKit 11.3 for iOS adds a dedicated tool to create cloud annotations, improves the performance of ink annotations, and adds Swift Package Manager support for PDFXKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Presenting Popovers on iPhone with SwiftUI]]></title>
+      <link>https://www.nutrient.io/blog/presenting-popovers-on-iphone-with-swiftui/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/presenting-popovers-on-iphone-with-swiftui/</guid>
+      <pubDate>Thu, 03 Feb 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BdOhSv05.png" alt="Presenting Popovers on iPhone with SwiftUI" /></p>How to present the UI as popovers on iPhone when using SwiftUI.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Download and display PDFs in Flutter]]></title>
+      <link>https://www.nutrient.io/blog/download-and-display-pdf-in-flutter-with-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/download-and-display-pdf-in-flutter-with-pspdfkit/</guid>
+      <pubDate>Wed, 02 Feb 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CyDSeHlj.png" alt="Download and display PDFs in Flutter" /></p>Learn to download and display PDF documents in your Flutter app using Dio and a PDF SDK with step-by-step code examples.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 11.2 for iOS Adds Instant Collaboration Permissions]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-11-2-ios-collaboration-permissions/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-11-2-ios-collaboration-permissions/</guid>
+      <pubDate>Wed, 12 Jan 2022 07:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.lDvjF9zk.png" alt="PSPDFKit 11.2 for iOS Adds Instant Collaboration Permissions" /></p>We’re excited to announce the addition of Instant Collaboration Permissions and the return of the text magnifying glass with PSPDFKit 11.2 for iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Loading Images on iOS 15]]></title>
+      <link>https://www.nutrient.io/blog/ios-15-image-api/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ios-15-image-api/</guid>
+      <pubDate>Wed, 15 Dec 2021 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BaJu27C_.png" alt="Loading Images on iOS 15" /></p>We discuss the new iOS 15 APIs provided by UIKit for loading and displaying images and the SwiftUI APIs for loading an image from a remote URL.]]></description>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Understanding fast-math]]></title>
+      <link>https://www.nutrient.io/blog/understanding-fast-math/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/understanding-fast-math/</guid>
+      <pubDate>Tue, 07 Dec 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Gs3unSSu.png" alt="Understanding fast-math" /></p>What does the -ffast-math optimization really do, and when is it safe to use it?]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Digitally Sign a PDF Using a YubiKey]]></title>
+      <link>https://www.nutrient.io/blog/how-to-sign-a-pdf-using-yubikey/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-sign-a-pdf-using-yubikey/</guid>
+      <pubDate>Tue, 23 Nov 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BtvXEdzl.png" alt="How to Digitally Sign a PDF Using a YubiKey" /></p>This blog post describes how you can integrate PSPDFKit for iOS and a YubiKey to sign PDFs via NFC using an iPhone.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Using Instant Layers for Onsite Visits]]></title>
+      <link>https://www.nutrient.io/blog/using-instant-layers-for-onsite-visits/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/using-instant-layers-for-onsite-visits/</guid>
+      <pubDate>Wed, 17 Nov 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Bu6SmP3o.png" alt="Using Instant Layers for Onsite Visits" /></p>We talk about how the layers feature of Instant can be used for construction site visits.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Fitting Text into a Bounding Frame on iOS]]></title>
+      <link>https://www.nutrient.io/blog/fitting-text-into-a-bounding-frame-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/fitting-text-into-a-bounding-frame-on-ios/</guid>
+      <pubDate>Tue, 16 Nov 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CviUagJ-.png" alt="Fitting Text into a Bounding Frame on iOS" /></p>How to use a binary search algorithm to precisely fit multiline text into a bounding frame on iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[What Is a Deprecated API on iOS?]]></title>
+      <link>https://www.nutrient.io/blog/what-is-a-deprecated-api-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/what-is-a-deprecated-api-on-ios/</guid>
+      <pubDate>Tue, 02 Nov 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DWc2UdTe.png" alt="What Is a Deprecated API on iOS?" /></p>A look at Apple's API evolution strategy and the effect of the deployment target and base SDK Xcode project settings.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 11.1 for iOS Enhances Document Comparison]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-11-1-ios-document-comparison/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-11-1-ios-document-comparison/</guid>
+      <pubDate>Tue, 26 Oct 2021 15:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Cd_51FsJ.png" alt="PSPDFKit 11.1 for iOS Enhances Document Comparison" /></p>PSPDFKit 11.1 for iOS adds support for macOS 12 Monterey and manual alignment to the Document Comparison workflow.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 11 for iOS 15]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-11-for-ios-15/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-11-for-ios-15/</guid>
+      <pubDate>Mon, 20 Sep 2021 13:55:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Bi_Lc2B2.png" alt="PSPDFKit 11 for iOS 15" /></p>PSPDFKit 11 for iOS adds support for Apple's new operating system version.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Swift render tests in practice — Part III]]></title>
+      <link>https://www.nutrient.io/blog/swift-render-tests-in-practice-part-3/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swift-render-tests-in-practice-part-3/</guid>
+      <pubDate>Wed, 01 Sep 2021 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.3Ey8oInO.png" alt="Swift render tests in practice — Part III" /></p>Enhance your Swift UI testing with advanced render test techniques. Learn to visualize image differences, automate reference image generation, and integrate visual diffs directly into your CI pipeline.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Swift render tests in practice — Part II]]></title>
+      <link>https://www.nutrient.io/blog/swift-render-tests-in-practice-part-2/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swift-render-tests-in-practice-part-2/</guid>
+      <pubDate>Wed, 25 Aug 2021 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.TjMLF5Gd.png" alt="Swift render tests in practice — Part II" /></p>Improve your Swift UI render tests by enhancing failure diagnostics. Learn to utilize .xcresult bundles, XCTAttachment, and XCTContext to streamline debugging and integrate detailed test outputs into your CI workflow.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Swift render tests in practice — Part I]]></title>
+      <link>https://www.nutrient.io/blog/swift-render-tests-in-practice-part-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swift-render-tests-in-practice-part-1/</guid>
+      <pubDate>Wed, 18 Aug 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.IXJL9ABX.png" alt="Swift render tests in practice — Part I" /></p>Discover how to implement render tests in Xcode for custom drawing code. Learn when to use them, how they compare images to catch regressions, and why they're essential for maintaining visual fidelity in iOS and macOS apps.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Reverse engineering UIKit to fix our top crash]]></title>
+      <link>https://www.nutrient.io/blog/reverse-engineering-uikit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/reverse-engineering-uikit/</guid>
+      <pubDate>Wed, 11 Aug 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BJFUOpV6.png" alt="Reverse engineering UIKit to fix our top crash" /></p>This blog post describes the process of reverse engineering UIKit to identify and fix our top crash in PSPDFKit for iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Automating Test Retries]]></title>
+      <link>https://www.nutrient.io/blog/automating-test-retries/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/automating-test-retries/</guid>
+      <pubDate>Tue, 03 Aug 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B0BTBXtq.png" alt="Automating Test Retries" /></p>We walk through our experience of dealing with flaky tests by automatically retrying them.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Debugging Image Loading and Cropping Performance on iOS]]></title>
+      <link>https://www.nutrient.io/blog/image-loading-and-cropping-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/image-loading-and-cropping-on-ios/</guid>
+      <pubDate>Tue, 20 Jul 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DElaAvrP.png" alt="Debugging Image Loading and Cropping Performance on iOS" /></p>We talk about using the Image I/O and Core Graphics APIs to improve the image loading and cropping performance in the PSPDFKit iOS SDK.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 10.5 for iOS Adds Instant Document Permissions]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-10-5-ios-instant-document-permissions/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-10-5-ios-instant-document-permissions/</guid>
+      <pubDate>Wed, 07 Jul 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.7CxXKx2A.png" alt="PSPDFKit 10.5 for iOS Adds Instant Document Permissions" /></p>PSPDFKit 10.5 for iOS adds Instant document permissions, redesigned getting started guides, and preliminary compatibility with iOS 15.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Open a PDF in React Native Using the Document Picker]]></title>
+      <link>https://www.nutrient.io/blog/how-to-open-a-pdf-in-react-native-using-the-document-browser/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-open-a-pdf-in-react-native-using-the-document-browser/</guid>
+      <pubDate>Tue, 06 Jul 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DU7R7qDX.png" alt="How to Open a PDF in React Native Using the Document Picker" /></p>A video tutorial about how to open a PDF in React Native using the document browser.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Automating Mac Catalyst Distribution with fastlane]]></title>
+      <link>https://www.nutrient.io/blog/automating-mac-catalyst-distribution-with-fastlane/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/automating-mac-catalyst-distribution-with-fastlane/</guid>
+      <pubDate>Wed, 09 Jun 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.UpOn4OaE.png" alt="Automating Mac Catalyst Distribution with fastlane" /></p>We recently automated PDF Viewer for Mac distribution via fastlane. Here’s how you can do the same for your Mac Catalyst app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 10.4 for iOS Introduces an Overhauled Undo Architecture]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-10-4-ios-new-undo-architecture/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-10-4-ios-new-undo-architecture/</guid>
+      <pubDate>Thu, 20 May 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.3qbqtfDG.png" alt="PSPDFKit 10.4 for iOS Introduces an Overhauled Undo Architecture" /></p>PSPDFKit 10.4 for iOS with an overhauled undo architecture, new examples, and TIFF support for image documents.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adding annotations in Swift with PDFKit vs. Nutrient]]></title>
+      <link>https://www.nutrient.io/blog/adding-annotations-in-swift-with-pdfkit-vs-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/adding-annotations-in-swift-with-pdfkit-vs-pspdfkit/</guid>
+      <pubDate>Tue, 27 Apr 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DKdgokzY.png" alt="Adding annotations in Swift with PDFKit vs. Nutrient" /></p>A post that compares adding annotations in Apple’s PDFKit and Nutrient.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[SwiftUI In Production]]></title>
+      <link>https://www.nutrient.io/blog/swiftui-in-production/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swiftui-in-production/</guid>
+      <pubDate>Tue, 20 Apr 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BRU8UPJA.png" alt="SwiftUI In Production" /></p>We recently shipped a major new feature in SwiftUI while still supporting iOS 12 in our SDK. Here's what we learned.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 10.3 introduces new features]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-10-3-ios-electronic-signatures-instant-comments/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-10-3-ios-electronic-signatures-instant-comments/</guid>
+      <pubDate>Wed, 31 Mar 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.VRwMAVUH.png" alt="PSPDFKit 10.3 introduces new features" /></p>Explore PSPDFKit 10.3 for iOS with new electronic signatures and instant comments, enhancing collaboration and document signing experiences.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Creating and Filling Forms Programmatically in Swift]]></title>
+      <link>https://www.nutrient.io/blog/creating-and-filling-forms-programmatically-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/creating-and-filling-forms-programmatically-in-swift/</guid>
+      <pubDate>Tue, 30 Mar 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.LYjz3R-C.png" alt="Creating and Filling Forms Programmatically in Swift" /></p>This blog post explains the process of creating and filling PDF forms programmatically in Swift.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Streams of Cocoa: Why It's Still Worth Knowing NSStream]]></title>
+      <link>https://www.nutrient.io/blog/streams-of-cocoa-why-its-still-worth-knowing-nsstream/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/streams-of-cocoa-why-its-still-worth-knowing-nsstream/</guid>
+      <pubDate>Wed, 10 Mar 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CrvtnQl6.png" alt="Streams of Cocoa: Why It's Still Worth Knowing NSStream" /></p>In this post, we'll look at a piece of API that many people rarely touch, if ever: Stream. It’s neither new nor shiny, but it's a powerful tool when you know how to use it.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Advances in XCFrameworks]]></title>
+      <link>https://www.nutrient.io/blog/advances-in-xcframeworks/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/advances-in-xcframeworks/</guid>
+      <pubDate>Tue, 23 Feb 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.nJ3zlQG1.png" alt="Advances in XCFrameworks" /></p>With Xcode 12, Apple improved the XCFramework format, which unlocks great new capabilities.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Deflaking CI Tests with xcresults]]></title>
+      <link>https://www.nutrient.io/blog/deflaking-ci-tests-with-xcresults/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/deflaking-ci-tests-with-xcresults/</guid>
+      <pubDate>Tue, 16 Feb 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BrEuIRjS.png" alt="Deflaking CI Tests with xcresults" /></p>We’re sharing some techniques for tracking down and fixing flaky Xcode tests on CI.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Keyboard Navigation in SwiftUI]]></title>
+      <link>https://www.nutrient.io/blog/keyboard-navigation-in-swiftui/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/keyboard-navigation-in-swiftui/</guid>
+      <pubDate>Wed, 10 Feb 2021 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B619tNDb.png" alt="Keyboard Navigation in SwiftUI" /></p>SwiftUI wasn’t built with keyboard support in mind, and it shows. Learn how you can rewrite keyboardShortcut to work with iOS 13 and access the underlying navigation controller to pop views on ⌘-Left Arrow.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit for Magazines]]></title>
+      <link>https://www.nutrient.io/blog/industry-solution-magazine-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/industry-solution-magazine-ios/</guid>
+      <pubDate>Tue, 09 Feb 2021 14:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CQw7pEPx.png" alt="PSPDFKit for Magazines" /></p>How to configure PSPDFKit for a magazine.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Using the Document Browser in SwiftUI to Open a PDF]]></title>
+      <link>https://www.nutrient.io/blog/swiftui-and-the-document-browser/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swiftui-and-the-document-browser/</guid>
+      <pubDate>Tue, 09 Feb 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.gzB7bgrR.png" alt="Using the Document Browser in SwiftUI to Open a PDF" /></p>With iOS 14, Apple made it incredibly easy to integrate the document browser into SwiftUI-powered apps.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit for Construction]]></title>
+      <link>https://www.nutrient.io/blog/industry-solution-construction-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/industry-solution-construction-ios/</guid>
+      <pubDate>Mon, 08 Feb 2021 14:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Bgke3UMc.png" alt="PSPDFKit for Construction" /></p>How to configure PSPDFKit to display a building floorplan.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Nutrient for e-readers]]></title>
+      <link>https://www.nutrient.io/blog/industry-solution-ereader-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/industry-solution-ereader-ios/</guid>
+      <pubDate>Fri, 05 Feb 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CS6ijMPy.png" alt="Nutrient for e-readers" /></p>How to configure Nutrient for an e-reader app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Bridge Native PSPDFKit for iOS Code to Flutter]]></title>
+      <link>https://www.nutrient.io/blog/how-to-bridge-native-ios-code-to-flutter/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-bridge-native-ios-code-to-flutter/</guid>
+      <pubDate>Thu, 04 Feb 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CaJVnQrc.png" alt="How to Bridge Native PSPDFKit for iOS Code to Flutter" /></p>A tutorial about how to bridge native PSPDFKit iOS code to Flutter.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit for E-Learning]]></title>
+      <link>https://www.nutrient.io/blog/industry-solution-elearning-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/industry-solution-elearning-ios/</guid>
+      <pubDate>Thu, 04 Feb 2021 07:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CsX03iHA.png" alt="PSPDFKit for E-Learning" /></p>How PSPDFKit can be configured for taking and grading an e-learning exam.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Using the SwiftUI ColorPicker on iOS and macOS]]></title>
+      <link>https://www.nutrient.io/blog/color-picker-in-ios-macos-swiftui/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/color-picker-in-ios-macos-swiftui/</guid>
+      <pubDate>Wed, 03 Feb 2021 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/header.Cdp1O072.png" alt="Using the SwiftUI ColorPicker on iOS and macOS" /></p>While macOS has offered a system-provided color picker since OS X 10.0 Cheetah, iOS developers had to wait a bit longer. Let's take a closer look at the new ColorPicker (SwiftUI) and UIColorPickerViewController (UIKit) controls.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit for Board Meetings]]></title>
+      <link>https://www.nutrient.io/blog/industry-solution-board-meeting-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/industry-solution-board-meeting-ios/</guid>
+      <pubDate>Wed, 03 Feb 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.sbLvSb-G.png" alt="PSPDFKit for Board Meetings" /></p>How PSPDFKit can be used to create or join a collaborative editing session for a board meeting.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Continuous integration: From Jenkins to Buildkite]]></title>
+      <link>https://www.nutrient.io/blog/continuous-integration-from-jenkins-to-buildkite/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/continuous-integration-from-jenkins-to-buildkite/</guid>
+      <pubDate>Tue, 02 Feb 2021 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DndU1Mk2.png" alt="Continuous integration: From Jenkins to Buildkite" /></p>Learn why we moved from Jenkins to Buildkite, what the current most promising services are, and how we evaluated them.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit for Aviation]]></title>
+      <link>https://www.nutrient.io/blog/industry-solution-aviation-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/industry-solution-aviation-ios/</guid>
+      <pubDate>Tue, 02 Feb 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Bs_voSe4.png" alt="PSPDFKit for Aviation" /></p>How to configure PSPDFKit to display a flight manual and passenger list documents.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 10.2 for iOS Adds New Examples on GitHub]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-10-2-ios-github-examples/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-10-2-ios-github-examples/</guid>
+      <pubDate>Tue, 02 Feb 2021 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BsA4JoIc.png" alt="PSPDFKit 10.2 for iOS Adds New Examples on GitHub" /></p>PSPDFKit 10.2 for iOS adds new examples on GitHub, seamless document downloading, performance improvements, and more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Automating macOS provisioning with Chef]]></title>
+      <link>https://www.nutrient.io/blog/automating-macos-provisioning-with-chef/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/automating-macos-provisioning-with-chef/</guid>
+      <pubDate>Tue, 26 Jan 2021 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Bw7vlfCH.png" alt="Automating macOS provisioning with Chef" /></p>Learn how to use Chef to automatically provision macOS machines for CI: infrastructure as code]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Unlock PDF Functionality with OCR in iOS]]></title>
+      <link>https://www.nutrient.io/blog/how-to-unlock-pdf-functionality-with-ocr-in-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-unlock-pdf-functionality-with-ocr-in-ios/</guid>
+      <pubDate>Wed, 06 Jan 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DuH3_jwJ.png" alt="How to Unlock PDF Functionality with OCR in iOS" /></p>This blog post covers how to integrate OCR functionality in iOS, perform OCR, and leverage functionality such as extraction, selection, highlight, and search.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Managing macOS hardware: Virtualization or bare metal?]]></title>
+      <link>https://www.nutrient.io/blog/managing-macos-hardware-virtualization-or-bare-metal/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/managing-macos-hardware-virtualization-or-bare-metal/</guid>
+      <pubDate>Tue, 01 Dec 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BdKOySoI.png" alt="Managing macOS hardware: Virtualization or bare metal?" /></p>We explore the different ways to run macOS in the cloud, comparing virtualization via VMware, Anka, and Orka with running a fleet of bare metal machines on Amazon or MacStadium.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Continuous integration for small iOS/macOS teams]]></title>
+      <link>https://www.nutrient.io/blog/continuous-integration-for-small-ios-macos-teams/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/continuous-integration-for-small-ios-macos-teams/</guid>
+      <pubDate>Tue, 01 Dec 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.jB_iO5T3.png" alt="Continuous integration for small iOS/macOS teams" /></p>In this new series, we're sharing our approach to macOS continuous integration for smaller teams that can't dedicate an entire team to CI management or aren't willing to invest five-figure sums per year for their setup.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Convert a PDF to an image in Swift]]></title>
+      <link>https://www.nutrient.io/blog/convert-pdf-to-image-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/convert-pdf-to-image-in-swift/</guid>
+      <pubDate>Wed, 18 Nov 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BsgIoKcJ.jpg" alt="Convert a PDF to an image in Swift" /></p>This blog post explains how to convert your PDF file to an image using Core Graphics, PDFKit, and Nutrient.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 10.1 Takes SwiftUI to the Next Level]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-10-1-swiftui/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-10-1-swiftui/</guid>
+      <pubDate>Thu, 12 Nov 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B0rpIgw0.png" alt="PSPDFKit 10.1 Takes SwiftUI to the Next Level" /></p>PSPDFKit 10.1 for iOS adds support for macOS Big Sur and Apple Silicon, and it improves SwiftUI integration options and Scribble interactions.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Caching file downloads with URLCache in Swift]]></title>
+      <link>https://www.nutrient.io/blog/downloading-large-files-with-urlsession/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/downloading-large-files-with-urlsession/</guid>
+      <pubDate>Wed, 11 Nov 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BAIXy6FU.png" alt="Caching file downloads with URLCache in Swift" /></p>Apple has a sophisticated caching system in iOS, which is enabled by default. However, documentation around URLCache is quite sparse. Today, we'll look at the behavior of caching when dealing with large files.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Presenting popovers from SwiftUI]]></title>
+      <link>https://www.nutrient.io/blog/popovers-from-swiftui-uibarbutton/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/popovers-from-swiftui-uibarbutton/</guid>
+      <pubDate>Wed, 28 Oct 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D8cl4myu.png" alt="Presenting popovers from SwiftUI" /></p>Is there a way to present UIKit popovers from toolbar buttons managed by SwiftUI?]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Extending the Scribble User Experience]]></title>
+      <link>https://www.nutrient.io/blog/extending-the-scribble-user-experience/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/extending-the-scribble-user-experience/</guid>
+      <pubDate>Wed, 21 Oct 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.7rsHuYOo.png" alt="Extending the Scribble User Experience" /></p>How to customize the default Scribble experience to allow users to start writing anywhere.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[An Introduction to LLDB Reproducers]]></title>
+      <link>https://www.nutrient.io/blog/an-introduction-to-lldb-reproducers/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/an-introduction-to-lldb-reproducers/</guid>
+      <pubDate>Tue, 06 Oct 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BaZ6vxud.png" alt="An Introduction to LLDB Reproducers" /></p>An introduction to an experimental feature in LLDB, Reproducers, that helps reproduce bugs in the debugger itself.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adding Multimedia Content to a PDF as a Gallery]]></title>
+      <link>https://www.nutrient.io/blog/multimedia-content-gallery-api-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/multimedia-content-gallery-api-ios/</guid>
+      <pubDate>Wed, 30 Sep 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BlqByLIx.jpg" alt="Adding Multimedia Content to a PDF as a Gallery" /></p>This post is about the Gallery API in PSPDFKit for iOS that can be used to add interactive multimedia content to a PDF.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 10 for iOS 14]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-10-for-ios-14/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-10-for-ios-14/</guid>
+      <pubDate>Tue, 22 Sep 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DEv6r94R.png" alt="PSPDFKit 10 for iOS 14" /></p>PSPDFKit 10 for iOS adds support for Apple's new operating system, enables SwiftPM integration, and improves content accessibility.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Binary Frameworks as Swift Packages]]></title>
+      <link>https://www.nutrient.io/blog/binary-frameworks-as-swift-packages/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/binary-frameworks-as-swift-packages/</guid>
+      <pubDate>Tue, 22 Sep 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.sdMMwOEg.png" alt="Binary Frameworks as Swift Packages" /></p>What we learned from experimenting with binary frameworks as Swift packages in Xcode 12.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Using Metal to Apply Image Filters]]></title>
+      <link>https://www.nutrient.io/blog/image-filters-using-metal/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/image-filters-using-metal/</guid>
+      <pubDate>Wed, 26 Aug 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DThvFbf8.png" alt="Using Metal to Apply Image Filters" /></p>An overview of how to use Metal to apply filters to images to perform a simple color inversion on the input image.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Optical Character Recognition in Scanned PDFs]]></title>
+      <link>https://www.nutrient.io/blog/optical-character-recognition-in-scanned-pdfs/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/optical-character-recognition-in-scanned-pdfs/</guid>
+      <pubDate>Wed, 12 Aug 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.p61J-0oa.png" alt="Optical Character Recognition in Scanned PDFs" /></p>An overview of how OCR can enhance scanned documents to speed up common operations. We explain what OCR is, why it's useful, and how it works.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Why Is the PDF Format So Well Supported on Apple Platforms?]]></title>
+      <link>https://www.nutrient.io/blog/apple-and-pdf-history/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/apple-and-pdf-history/</guid>
+      <pubDate>Wed, 05 Aug 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CexWRysq.png" alt="Why Is the PDF Format So Well Supported on Apple Platforms?" /></p>Apple has a rich history of supporting the PDF file format, but when and how did its relationship with the PDF format begin?]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The Case for Lists in UICollectionView]]></title>
+      <link>https://www.nutrient.io/blog/the-case-for-lists-in-uicollectionview/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/the-case-for-lists-in-uicollectionview/</guid>
+      <pubDate>Wed, 22 Jul 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.SzNbHNa0.png" alt="The Case for Lists in UICollectionView" /></p>Exploring the power and flexibility offered by creating lists using UICollectionView.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The hidden trap in table and collection view reloads]]></title>
+      <link>https://www.nutrient.io/blog/selective-tableview-collectionview-reloads/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/selective-tableview-collectionview-reloads/</guid>
+      <pubDate>Tue, 21 Jul 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CwuJwmFW.png" alt="The hidden trap in table and collection view reloads" /></p>Discover how to prevent crashes during selective updates in table views and collection views, ensuring smooth iOS app performance.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit for iOS Adds OCR]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-adds-ocr/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-adds-ocr/</guid>
+      <pubDate>Tue, 14 Jul 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CH-CZAws.png" alt="PSPDFKit for iOS Adds OCR" /></p>PSPDFKit 9.5 for iOS introduces the new OCR component and a revamped touch handling system.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Direct Calls with Objective-C]]></title>
+      <link>https://www.nutrient.io/blog/improving-performance-via-objc-direct/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/improving-performance-via-objc-direct/</guid>
+      <pubDate>Wed, 01 Jul 2020 15:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CfiYbmQp.png" alt="Direct Calls with Objective-C" /></p>Apple introduced the objc_direct attribute in Xcode 12. Learn what it does and how you can use it to your advantage.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Supporting XCFrameworks]]></title>
+      <link>https://www.nutrient.io/blog/supporting-xcframeworks/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/supporting-xcframeworks/</guid>
+      <pubDate>Wed, 17 Jun 2020 14:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CQYLq3ON.png" alt="Supporting XCFrameworks" /></p>What we learned about XCFrameworks while migrating Nutrient to this new format.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 9.4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-9-4/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-9-4/</guid>
+      <pubDate>Wed, 17 Jun 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D1aAEku3.png" alt="PSPDFKit 9.4 for iOS" /></p>Introducing PSPDFKit 9.4 for iOS, which features Office Files Support, a new Reader View component, package manager enhancements, and much more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Automatically Redact Faces with PSPDFKit for iOS]]></title>
+      <link>https://www.nutrient.io/blog/automatically-redact-faces-pspdfkit-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/automatically-redact-faces-pspdfkit-ios/</guid>
+      <pubDate>Mon, 15 Jun 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.jhtW_1Nt.png" alt="Automatically Redact Faces with PSPDFKit for iOS" /></p>This post describes how to use PSPDFKit for iOS and Core Image to perform facial redaction in PDF documents.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[NULL-Characters in Strings and Tales of Apple Radar]]></title>
+      <link>https://www.nutrient.io/blog/null-character-strings/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/null-character-strings/</guid>
+      <pubDate>Wed, 10 Jun 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Ds60-osH.png" alt="NULL-Characters in Strings and Tales of Apple Radar" /></p>In iOS 11, Smart Punctuation caused data loss. Learn how we fixed the issue and how we are now cleaning up the OS-level workaround.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Level Up Your Trackpad Support Using UIInteraction]]></title>
+      <link>https://www.nutrient.io/blog/level-up-your-trackpad-support-using-uiinteraction/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/level-up-your-trackpad-support-using-uiinteraction/</guid>
+      <pubDate>Tue, 02 Jun 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/header.DyZmkHpG.png" alt="Level Up Your Trackpad Support Using UIInteraction" /></p>How to make your iOS app work well with scrolling, secondary clicking and dragging on a trackpad or mouse.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[An In-Depth Look at Blur Effect Materials on iOS]]></title>
+      <link>https://www.nutrient.io/blog/blur-effect-materials-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/blur-effect-materials-on-ios/</guid>
+      <pubDate>Wed, 27 May 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.6pOkfvTE.png" alt="An In-Depth Look at Blur Effect Materials on iOS" /></p>This blog post talks in detail about the blur effect materials on iOS and the challenges we faced in picking the appropriate effect for our SDK.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Automated Profiling Runs in Instruments]]></title>
+      <link>https://www.nutrient.io/blog/automated-profiling-runs-in-instruments/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/automated-profiling-runs-in-instruments/</guid>
+      <pubDate>Tue, 19 May 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.fBksCIGg.png" alt="Automated Profiling Runs in Instruments" /></p>Learn how to automate measurement runs with Instruments.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Preventing Surprisingly Large Objective-C Type Encodings]]></title>
+      <link>https://www.nutrient.io/blog/objc-type-encodings/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/objc-type-encodings/</guid>
+      <pubDate>Wed, 08 Apr 2020 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BWEicdry.png" alt="Preventing Surprisingly Large Objective-C Type Encodings" /></p>Objective-C stores type encoding in the binary. These encodings can become surprisingly large.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 9.3 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-9-3/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-9-3/</guid>
+      <pubDate>Tue, 31 Mar 2020 18:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.kPd1eT8q.png" alt="PSPDFKit 9.3 for iOS" /></p>Introducing PSPDFKit 9.3 for iOS, which features refined Swift APIs, iPad cursor support, stricter adherence to PDF document permissions, and much more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Supporting Pointer Interactions]]></title>
+      <link>https://www.nutrient.io/blog/supporting-pointer-interactions/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/supporting-pointer-interactions/</guid>
+      <pubDate>Thu, 26 Mar 2020 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BalsLbo9.png" alt="Supporting Pointer Interactions" /></p>Apple introduced new pointer events in iOS 13.4 to better support trackpad and mouse devices.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Introduction to SwiftUI for React Developers (Part 2)]]></title>
+      <link>https://www.nutrient.io/blog/intro-to-swiftui-for-react-developers-part-2/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/intro-to-swiftui-for-react-developers-part-2/</guid>
+      <pubDate>Wed, 12 Feb 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BODCTjan.png" alt="Introduction to SwiftUI for React Developers (Part 2)" /></p>A discussion about the basic concepts of SwiftUI from the point of view of a React developer]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Introduction to SwiftUI for React Developers (Part 1)]]></title>
+      <link>https://www.nutrient.io/blog/intro-to-swiftui-for-react-developers-part-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/intro-to-swiftui-for-react-developers-part-1/</guid>
+      <pubDate>Wed, 05 Feb 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.RDo9ax51.png" alt="Introduction to SwiftUI for React Developers (Part 1)" /></p>A discussion of the basic concepts of SwiftUI from the point of view of a React developer.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to bridge native iOS code to React Native]]></title>
+      <link>https://www.nutrient.io/blog/how-to-bridge-native-ios-code-to-react-native/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-bridge-native-ios-code-to-react-native/</guid>
+      <pubDate>Wed, 29 Jan 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D4mEurG4.png" alt="How to bridge native iOS code to React Native" /></p>A video tutorial about how to bridge native iOS code to React Native.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 9.2 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-9-2/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-9-2/</guid>
+      <pubDate>Wed, 22 Jan 2020 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B6VopvYn.png" alt="PSPDFKit 9.2 for iOS" /></p>Introducing PSPDFKit 9.2 for iOS — with updated UI text and additional Dark Mode and Mac Catalyst enhancements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Add Attribution to PDFs with PSPDFKit for iOS]]></title>
+      <link>https://www.nutrient.io/blog/how-to-add-attribution-to-pdfs-with-pspdfkit-for-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-add-attribution-to-pdfs-with-pspdfkit-for-ios/</guid>
+      <pubDate>Tue, 21 Jan 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Y2AAR8mF.png" alt="How to Add Attribution to PDFs with PSPDFKit for iOS" /></p>Learn how to include attribution when sharing the contents of a PDF.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adopting UIAppearance in Custom Views]]></title>
+      <link>https://www.nutrient.io/blog/adopting-uiappearance/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/adopting-uiappearance/</guid>
+      <pubDate>Tue, 14 Jan 2020 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DJFbdQEI.png" alt="Adopting UIAppearance in Custom Views" /></p>Learn how to support styling your own custom views using UIAppearance.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Open links in Safari, not Safari view controller]]></title>
+      <link>https://www.nutrient.io/blog/open-links-in-safari-not-safari-view-controller/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/open-links-in-safari-not-safari-view-controller/</guid>
+      <pubDate>Wed, 11 Dec 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Ch7Q1IQu.png" alt="Open links in Safari, not Safari view controller" /></p>Why we changed our default for opening web links from SFSafariViewController to the Safari app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 9.1 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-9-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-9-1/</guid>
+      <pubDate>Thu, 05 Dec 2019 14:35:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C7U9XnWE.png" alt="PSPDFKit 9.1 for iOS" /></p>Introducing PSPDFKit 9.1 for iOS — featuring improved Image Documents, better Mac Catalyst support, and extended appearance customization options.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Introduction to C++ for Swift Developers]]></title>
+      <link>https://www.nutrient.io/blog/intro-cpp-swift-developers/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/intro-cpp-swift-developers/</guid>
+      <pubDate>Tue, 26 Nov 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BlPOeLkl.png" alt="Introduction to C++ for Swift Developers" /></p>An introduction to the C++ language for Swift developers, with an overview of reasons to use C++ and a look at differences and similarities between the languages.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adopting Dark Mode on iOS and Ensuring Backward Compatibility]]></title>
+      <link>https://www.nutrient.io/blog/adopting-dark-mode-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/adopting-dark-mode-on-ios/</guid>
+      <pubDate>Wed, 20 Nov 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BYC5iIvR.png" alt="Adopting Dark Mode on iOS and Ensuring Backward Compatibility" /></p>A comprehensive overview of adopting Dark Mode in an iOS app, along with a few tips to make the process of development easier.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 9 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-9/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-9/</guid>
+      <pubDate>Thu, 19 Sep 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/header.DsjKeVRP.png" alt="PSPDFKit 9 for iOS" /></p>PSPDFKit 9 for iOS introduces Mac Catalyst support, as well as many great new iOS 13 features such as native Dark Mode and multi-window support.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Challenges of Using Emojis with C++]]></title>
+      <link>https://www.nutrient.io/blog/emojis-and-cpp/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/emojis-and-cpp/</guid>
+      <pubDate>Mon, 09 Sep 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CAuUY27n.png" alt="Challenges of Using Emojis with C++" /></p>In this article, we discuss the challenges of implementing your own custom emoji support in a cross-platform way.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Expose Native iOS APIs to Cordova]]></title>
+      <link>https://www.nutrient.io/blog/how-to-expose-ios-api-to-cordova/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-expose-ios-api-to-cordova/</guid>
+      <pubDate>Wed, 04 Sep 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DoKYh9rr.png" alt="How to Expose Native iOS APIs to Cordova" /></p>A tutorial about how to expose native iOS APIs to Cordova.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The role of Nutrient as a PDF processor]]></title>
+      <link>https://www.nutrient.io/blog/the-role-of-the-pdf-processor/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/the-role-of-the-pdf-processor/</guid>
+      <pubDate>Wed, 14 Aug 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D1xHhAYt.png" alt="The role of Nutrient as a PDF processor" /></p>How we fit into the PDF landscape.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 8.5 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-8-5/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-8-5/</guid>
+      <pubDate>Wed, 31 Jul 2019 16:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/header.3D33eXsS.png" alt="PSPDFKit 8.5 for iOS" /></p>Introducing PSPDFKit 8.5 for iOS — with user interface options to change the stacking order of annotations and the page binding of documents.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Customizing segmented controls in Nutrient]]></title>
+      <link>https://www.nutrient.io/blog/customize-segmented-controls/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/customize-segmented-controls/</guid>
+      <pubDate>Tue, 30 Jul 2019 07:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BEeBhY1f.png" alt="Customizing segmented controls in Nutrient" /></p>We show how to customize the segmented controls in the document info coordinator.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Take Notes Using the PSPDFKit UI]]></title>
+      <link>https://www.nutrient.io/blog/take-notes-in-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/take-notes-in-pspdfkit/</guid>
+      <pubDate>Wed, 24 Jul 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.pvqYi7-S.png" alt="How to Take Notes Using the PSPDFKit UI" /></p>An introduction to adding notes to your PDFs with PSPDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Create a Game with PDF and JavaScript]]></title>
+      <link>https://www.nutrient.io/blog/create-pdf-game-tic-tac-toe-javascript/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/create-pdf-game-tic-tac-toe-javascript/</guid>
+      <pubDate>Wed, 17 Jul 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BU8dUOyE.png" alt="How to Create a Game with PDF and JavaScript" /></p>This blog post explains how to extend the link creation API in PSPDFKit to create JavaScript actions and build a simple tic-tac-toe PDF game.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Making a Resource Thread-Safe with Locks]]></title>
+      <link>https://www.nutrient.io/blog/making-a-class-thread-safe/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/making-a-class-thread-safe/</guid>
+      <pubDate>Tue, 16 Jul 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.71La7ObG.png" alt="Making a Resource Thread-Safe with Locks" /></p>We discuss how to ensure thread safety and synchronization via locking.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Sync Annotations Using External Files]]></title>
+      <link>https://www.nutrient.io/blog/saving-and-syncing-strategy-external-files/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/saving-and-syncing-strategy-external-files/</guid>
+      <pubDate>Mon, 15 Jul 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D_8JVXOo.png" alt="Sync Annotations Using External Files" /></p>Explore strategies to save and sync annotations using external files for better efficiency.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Inserting an Image into a PDF with Swift]]></title>
+      <link>https://www.nutrient.io/blog/insert-image-into-pdf-with-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/insert-image-into-pdf-with-swift/</guid>
+      <pubDate>Wed, 10 Jul 2019 07:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.nmnpCBKE.png" alt="Inserting an Image into a PDF with Swift" /></p>We provide a step-by-step explanation of how to insert an image into a PDF using Swift.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Is My Document a Valid PDF?]]></title>
+      <link>https://www.nutrient.io/blog/is-my-pdf-valid/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/is-my-pdf-valid/</guid>
+      <pubDate>Mon, 01 Jul 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.p8TZPxdz.png" alt="Is My Document a Valid PDF?" /></p>Discover how to determine if your PDF has an invalid PDF format and learn effective methods for validation and correction. Explore common issues and solutions with Nutrient.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Swizzling in Swift]]></title>
+      <link>https://www.nutrient.io/blog/swizzling-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swizzling-in-swift/</guid>
+      <pubDate>Wed, 26 Jun 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.08RwWxsp.png" alt="Swizzling in Swift" /></p>A quick crash course on how to swizzle correctly, and how to do it in Swift 5.1]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Working with PDF Metadata in Swift]]></title>
+      <link>https://www.nutrient.io/blog/working-with-pdf-metadata-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/working-with-pdf-metadata-in-swift/</guid>
+      <pubDate>Tue, 25 Jun 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BRtEWaXI.png" alt="Working with PDF Metadata in Swift" /></p>How and what metadata can be stored in a PDF, and how to programmatically work with this information.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Drawing on PDFs Using Ink Annotations]]></title>
+      <link>https://www.nutrient.io/blog/ink-annotation-in-pdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ink-annotation-in-pdfkit/</guid>
+      <pubDate>Tue, 18 Jun 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.gXF4a647.png" alt="Drawing on PDFs Using Ink Annotations" /></p>We show how to draw on a PDF using an ink annotation in PDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to show a PDF in SwiftUI]]></title>
+      <link>https://www.nutrient.io/blog/how-to-show-a-pdf-in-swiftui/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-show-a-pdf-in-swiftui/</guid>
+      <pubDate>Mon, 10 Jun 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.-bUMKiEd.png" alt="How to show a PDF in SwiftUI" /></p>How to show a PDF using SwiftUI, Apple's PDFKit, and Nutrient iOS SDK.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Merge PDFs in Swift]]></title>
+      <link>https://www.nutrient.io/blog/merge-pdfs-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/merge-pdfs-in-swift/</guid>
+      <pubDate>Mon, 03 Jun 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DgikL8S0.png" alt="Merge PDFs in Swift" /></p>How to merge multiple PDF files in Swift.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 8.4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-8-4/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-8-4/</guid>
+      <pubDate>Thu, 30 May 2019 17:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/header.DYcvhsSK.png" alt="PSPDFKit 8.4 for iOS" /></p>Introducing PSPDFKit 8.4 for iOS — featuring a new floating page scrubber bar, a refreshed look for the annotation inspector, rotation for text annotations, and an eraser thickness slider.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Secure Documents with PSPDFKit for iOS]]></title>
+      <link>https://www.nutrient.io/blog/secure-documents-with-pspdfkit-for-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/secure-documents-with-pspdfkit-for-ios/</guid>
+      <pubDate>Wed, 22 May 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C1slFVnA.png" alt="Secure Documents with PSPDFKit for iOS" /></p>How to secure documents using PSPDFKit for iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PDF Text Extraction in Swift]]></title>
+      <link>https://www.nutrient.io/blog/pdf-text-extraction-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pdf-text-extraction-in-swift/</guid>
+      <pubDate>Mon, 20 May 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C8-Hfas2.png" alt="PDF Text Extraction in Swift" /></p>We demonstrate how to extract text from a PDF using Swift via PDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The Bittersweet iOS Document Browser]]></title>
+      <link>https://www.nutrient.io/blog/the-bittersweet-ios-document-browser/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/the-bittersweet-ios-document-browser/</guid>
+      <pubDate>Wed, 24 Apr 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CJPiiY6G.png" alt="The Bittersweet iOS Document Browser" /></p>A quick look at both the benefits and downsides of using the iOS system document browser in your applications.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 8.3 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-8-3/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-8-3/</guid>
+      <pubDate>Tue, 23 Apr 2019 11:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-8-3-header.FTG7kp0b.png" alt="PSPDFKit 8.3 for iOS" /></p>Introducing PSPDFKit 8.3 for iOS — featuring stamp annotation rotation, a new link annotation editing UI, extended support for keyboard shortcuts, and much more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Getting started with Nutrient Flutter SDK]]></title>
+      <link>https://www.nutrient.io/blog/getting-started-with-pspdfkit-flutter/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/getting-started-with-pspdfkit-flutter/</guid>
+      <pubDate>Tue, 02 Apr 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Bxol_WnB.png" alt="Getting started with Nutrient Flutter SDK" /></p>Learn how to get started with Nutrient Flutter SDK. This step-by-step tutorial covers installation, setup, and running a sample app on iOS and Android, helping you integrate powerful PDF features in your Flutter projects.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Watermarking a PDF on iOS]]></title>
+      <link>https://www.nutrient.io/blog/watermarking-a-pdf-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/watermarking-a-pdf-ios/</guid>
+      <pubDate>Mon, 01 Apr 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DrjaDNn2.png" alt="Watermarking a PDF on iOS" /></p>We explain how to watermark a PDF — both temporarily and permanently.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Extracting Images from a PDF in Swift]]></title>
+      <link>https://www.nutrient.io/blog/extracting-images-from-a-pdf-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/extracting-images-from-a-pdf-in-swift/</guid>
+      <pubDate>Mon, 25 Mar 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CvnACGry.png" alt="Extracting Images from a PDF in Swift" /></p>How to extract images from a PDF with Swift.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Embracing the Limits of UIActivityViewController]]></title>
+      <link>https://www.nutrient.io/blog/embracing-the-limits-of-uiactivityviewcontroller/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/embracing-the-limits-of-uiactivityviewcontroller/</guid>
+      <pubDate>Wed, 20 Mar 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BB8tWZPv.png" alt="Embracing the Limits of UIActivityViewController" /></p>We talk about our experience in implementing the new sharing flow.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit and Swift]]></title>
+      <link>https://www.nutrient.io/blog/swift-and-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swift-and-pspdfkit/</guid>
+      <pubDate>Wed, 13 Mar 2019 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B76-1kX-.png" alt="PSPDFKit and Swift" /></p>Will PSPDFKit for iOS move to Swift? In this post, we weigh the pros and cons.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Annotate PDFs with Images via PDFKit]]></title>
+      <link>https://www.nutrient.io/blog/image-annotation-via-pdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/image-annotation-via-pdfkit/</guid>
+      <pubDate>Mon, 11 Mar 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.a-Mw8ILz.png" alt="Annotate PDFs with Images via PDFKit" /></p>We show you how to annotate a PDF with an image via PDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adding Logging to Crash Reports]]></title>
+      <link>https://www.nutrient.io/blog/logs-for-your-crash-reports/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/logs-for-your-crash-reports/</guid>
+      <pubDate>Wed, 06 Mar 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.LP40Uzoa.png" alt="Adding Logging to Crash Reports" /></p>Understanding crash reports is often difficult without extra context. Learn how we attach application logs to crash reports via Google's Firebase Crashlytics in the free PDF Viewer for iOS app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Converting an Image to a PDF in Swift]]></title>
+      <link>https://www.nutrient.io/blog/converting-an-image-to-a-pdf-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/converting-an-image-to-a-pdf-in-swift/</guid>
+      <pubDate>Mon, 04 Mar 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DYJFlnU5.png" alt="Converting an Image to a PDF in Swift" /></p>We provide a step-by-step explanation of how to convert an image to a PDF.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Incremental and Full Save in PDFs]]></title>
+      <link>https://www.nutrient.io/blog/incremental-and-full-save-in-pdfs/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/incremental-and-full-save-in-pdfs/</guid>
+      <pubDate>Mon, 25 Feb 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CdB2xalh.png" alt="Incremental and Full Save in PDFs" /></p>This article goes into what's involved when incrementally or fully saving a PDF, and why it matters.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Convert HTML to PDF with Swift]]></title>
+      <link>https://www.nutrient.io/blog/how-to-convert-html-to-pdf-with-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-convert-html-to-pdf-with-swift/</guid>
+      <pubDate>Mon, 11 Feb 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C2nSW68M.png" alt="How to Convert HTML to PDF with Swift" /></p>A tutorial about how to convert simple HTML to PDF using Swift.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 8.2 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-8-2/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-8-2/</guid>
+      <pubDate>Thu, 07 Feb 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-8-2-header.DDiIwsSD.png" alt="PSPDFKit 8.2 for iOS" /></p>Introducing PSPDFKit 8.2 for iOS — featuring an extended and redesigned bookmark UI, updated half modals, and significant performance improvements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Writing and Maintaining Good Code Documentation]]></title>
+      <link>https://www.nutrient.io/blog/writing-and-maintaining-good-code-documentation/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/writing-and-maintaining-good-code-documentation/</guid>
+      <pubDate>Mon, 04 Feb 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Cg5259MX.png" alt="Writing and Maintaining Good Code Documentation" /></p>Tips, tricks, and techniques for documenting your code the correct way.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[UWP for iOS Developers]]></title>
+      <link>https://www.nutrient.io/blog/uwp-for-ios-developers/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/uwp-for-ios-developers/</guid>
+      <pubDate>Wed, 30 Jan 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B9XB7wh4.png" alt="UWP for iOS Developers" /></p>A brief introduction to Universal Windows development for iOS developers.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Creating a PDF in Swift using PDFKit]]></title>
+      <link>https://www.nutrient.io/blog/creating-pdf-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/creating-pdf-in-swift/</guid>
+      <pubDate>Tue, 15 Jan 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BDJN35UO.png" alt="Creating a PDF in Swift using PDFKit" /></p>How to create and customize a PDF in Swift using PDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Converting an Attributed String to a PDF]]></title>
+      <link>https://www.nutrient.io/blog/converting-attributed-string-to-pdf/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/converting-attributed-string-to-pdf/</guid>
+      <pubDate>Tue, 08 Jan 2019 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DzqnS6Ue.png" alt="Converting an Attributed String to a PDF" /></p>How to convert a string with formatting to a PDF.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Self-Sizing Table View Cells in Practice]]></title>
+      <link>https://www.nutrient.io/blog/self-sizing-table-view-cells/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/self-sizing-table-view-cells/</guid>
+      <pubDate>Wed, 19 Dec 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DXDg1nBu.png" alt="Self-Sizing Table View Cells in Practice" /></p>A look at self-sizing table view cells for apps supporting iOS 10, 11, and 12, covering three implementation approaches and some pitfalls I encountered supporting these across our UI in PSPDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 8.1 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-8-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-8-1/</guid>
+      <pubDate>Thu, 06 Dec 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-8-1-header.CsmnYujg.png" alt="PSPDFKit 8.1 for iOS" /></p>Introducing PSPDFKit 8.1 for iOS — featuring free-form redaction, file conflict detection, and Apple Pencil gestures.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Search and Redact Text in Swift]]></title>
+      <link>https://www.nutrient.io/blog/search-and-redact-text-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/search-and-redact-text-in-swift/</guid>
+      <pubDate>Wed, 05 Dec 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CywwUX_J.png" alt="Search and Redact Text in Swift" /></p>How to search and redact text using Swift and PSPDFKit for iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Tips and Tricks for Contributing to the Swift Language]]></title>
+      <link>https://www.nutrient.io/blog/tips-for-contributing-to-the-swift-language/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/tips-for-contributing-to-the-swift-language/</guid>
+      <pubDate>Wed, 28 Nov 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CgXhbZvl.png" alt="Tips and Tricks for Contributing to the Swift Language" /></p>This post describes the process for contributing code to the Swift programming language, including how to propose changes to the language, write a pull request, address feedback, and make your code part of the next version of the language.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Color-Correct Night Mode]]></title>
+      <link>https://www.nutrient.io/blog/color-correct-night-mode/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/color-correct-night-mode/</guid>
+      <pubDate>Tue, 27 Nov 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C-as98jU.png" alt="Color-Correct Night Mode" /></p>A blog post showing how we go the extra mile to create good-looking color in night mode.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Using Signposts for Performance Tuning on iOS]]></title>
+      <link>https://www.nutrient.io/blog/using-signposts-for-performance-tuning-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/using-signposts-for-performance-tuning-on-ios/</guid>
+      <pubDate>Wed, 21 Nov 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BLUddbvG.png" alt="Using Signposts for Performance Tuning on iOS" /></p>A look at the different ways that we measure and try to improve performance at PSPDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Creating an Efficient App Store Screenshot Workflow]]></title>
+      <link>https://www.nutrient.io/blog/creating-an-efficient-app-store-screenshot-workflow/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/creating-an-efficient-app-store-screenshot-workflow/</guid>
+      <pubDate>Tue, 20 Nov 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.0Ot24DO7.png" alt="Creating an Efficient App Store Screenshot Workflow" /></p>A look at how we generate our screenshots for the iOS App Store.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[iOS HEIC Performance]]></title>
+      <link>https://www.nutrient.io/blog/ios-heic-performance/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ios-heic-performance/</guid>
+      <pubDate>Wed, 14 Nov 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.5nnllDiS.png" alt="iOS HEIC Performance" /></p>We evaluate the encoding and decoding performance of HEIC.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Challenges of Adopting Drag and Drop]]></title>
+      <link>https://www.nutrient.io/blog/challenges-of-drag-and-drop/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/challenges-of-drag-and-drop/</guid>
+      <pubDate>Wed, 07 Nov 2018 08:10:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DELGr1in.png" alt="Challenges of Adopting Drag and Drop" /></p>A recap of how we integrated drag-and-drop support into our Document Editor in iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to program a calculator in a PDF]]></title>
+      <link>https://www.nutrient.io/blog/how-to-program-a-calculator-pdf/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-program-a-calculator-pdf/</guid>
+      <pubDate>Wed, 31 Oct 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BjNVSWUb.png" alt="How to program a calculator in a PDF" /></p>PDF supports JavaScript, and you can use this functionality to program small applications inside a document.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Refactoring Large Codebases: Tips and Tricks]]></title>
+      <link>https://www.nutrient.io/blog/refactoring-large-codebases-tips/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/refactoring-large-codebases-tips/</guid>
+      <pubDate>Tue, 23 Oct 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Cfr_DWCi.png" alt="Refactoring Large Codebases: Tips and Tricks" /></p>If you're going to fall down a rabbit hole anyway, you might as well enjoy it!]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Improving Dynamic Type Support]]></title>
+      <link>https://www.nutrient.io/blog/improving-dynamic-type-support/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/improving-dynamic-type-support/</guid>
+      <pubDate>Wed, 17 Oct 2018 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.tvs8uWkx.png" alt="Improving Dynamic Type Support" /></p>How to improve Dynamic Type support in your app and bring it to the next level.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 8 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-8-0/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-8-0/</guid>
+      <pubDate>Wed, 17 Oct 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-8-0-header.BwBFT83p.png" alt="PSPDFKit 8 for iOS" /></p>Introducing PSPDFKit 8 for iOS. Featuring new redaction and comparison components, an overhauled sharing UI, and full iOS 12 and Xcode 10 support.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Extend LLDB to Provide a Better Debugging Experience]]></title>
+      <link>https://www.nutrient.io/blog/how-to-extend-lldb-to-provide-a-better-debugging-experience/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-extend-lldb-to-provide-a-better-debugging-experience/</guid>
+      <pubDate>Tue, 09 Oct 2018 08:10:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.H2y9TNNl.png" alt="How to Extend LLDB to Provide a Better Debugging Experience" /></p>Explore the extensibility capabilities of LLDB, a debugger for Swift, C, C++, and Objective-C code.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Examples for Using Our Frameworks]]></title>
+      <link>https://www.nutrient.io/blog/examples-for-using-our-frameworks/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/examples-for-using-our-frameworks/</guid>
+      <pubDate>Mon, 08 Oct 2018 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.U38UtRcM.png" alt="Examples for Using Our Frameworks" /></p>Here at PSPDFKit, we believe doing practical work is the best way to learn things, so we decided to create a few example apps to help customers explore our framework.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Integrating PSPDFKit with CocoaPods]]></title>
+      <link>https://www.nutrient.io/blog/integrating-pspdfkit-with-cocoapods/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/integrating-pspdfkit-with-cocoapods/</guid>
+      <pubDate>Mon, 01 Oct 2018 08:15:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.zmKoEQLQ.png" alt="Integrating PSPDFKit with CocoaPods" /></p>A complete step-by-step guide on how to install CocoaPods and integrate PSPDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Custom PDF Page Templates with PSPDFKit for iOS]]></title>
+      <link>https://www.nutrient.io/blog/custom-pdf-page-templates-with-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/custom-pdf-page-templates-with-ios/</guid>
+      <pubDate>Mon, 24 Sep 2018 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.WyQDCr9q.png" alt="Custom PDF Page Templates with PSPDFKit for iOS" /></p>We show how a developer can use our PSPDFPageTemplate class to create custom PDF templates with iOS]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Marzipan: Porting iOS Apps to the Mac]]></title>
+      <link>https://www.nutrient.io/blog/porting-ios-apps-to-mac-marzipan-iosmac-uikit-appkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/porting-ios-apps-to-mac-marzipan-iosmac-uikit-appkit/</guid>
+      <pubDate>Thu, 20 Sep 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/header.VUfnjjku.png" alt="Marzipan: Porting iOS Apps to the Mac" /></p>With macOS Mojave, Apple is adding support to bring apps written in UIKit to macOS without the requirement of having to rewrite the UI in AppKit. This is not yet officially supported — this post will explore what we can expect in 2019 and how you can use Marzipan today.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The Challenges of Changelogs]]></title>
+      <link>https://www.nutrient.io/blog/the-challenges-of-changelogs/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/the-challenges-of-changelogs/</guid>
+      <pubDate>Wed, 19 Sep 2018 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.Ca8yHuHx.png" alt="The Challenges of Changelogs" /></p>How we handle changelogs at PSPDFKit and the tools we built to help us with this.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Extend React Native APIs]]></title>
+      <link>https://www.nutrient.io/blog/how-to-extend-react-native-api/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-extend-react-native-api/</guid>
+      <pubDate>Tue, 28 Aug 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BdZiJlOv.png" alt="How to Extend React Native APIs" /></p>A tutorial about how to expose native iOS APIs to React Native.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How I Got Started with Flutter]]></title>
+      <link>https://www.nutrient.io/blog/starting-with-flutter/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/starting-with-flutter/</guid>
+      <pubDate>Tue, 31 Jul 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DLqdLx0u.png" alt="How I Got Started with Flutter" /></p>A short review of Flutter from a mobile developer’s standpoint.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Generate On-Device PDF Reports on iOS]]></title>
+      <link>https://www.nutrient.io/blog/generate-on-device-pdf-reports-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/generate-on-device-pdf-reports-on-ios/</guid>
+      <pubDate>Tue, 24 Jul 2018 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C8Gdl8Ii.png" alt="Generate On-Device PDF Reports on iOS" /></p>How to generate on-device PDF reports without using an internet connection.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 7.7 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-7-7/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-7-7/</guid>
+      <pubDate>Thu, 19 Jul 2018 11:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-7-7-header.BpMD_1ov.png" alt="PSPDFKit 7.7 for iOS" /></p>Introducing PSPDFKit 7.7 for iOS — featuring a new document info screen, Document Editor enhancements, improved thumbnail filtering, image document export, and preliminary iOS 12 and Xcode 10 support.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Smart Grid Sizing]]></title>
+      <link>https://www.nutrient.io/blog/smart-grid-sizing/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/smart-grid-sizing/</guid>
+      <pubDate>Tue, 03 Jul 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DCDewoHi.png" alt="Smart Grid Sizing" /></p>How PSPDFKit is smart about choosing thumbnail sizes.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to Embed Files Using File Annotations]]></title>
+      <link>https://www.nutrient.io/blog/how-to-embed-files-using-file-annotations/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-embed-files-using-file-annotations/</guid>
+      <pubDate>Mon, 11 Jun 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.DfziB1dR.png" alt="How to Embed Files Using File Annotations" /></p>We're taking a look at how to embed files using file annotations.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 7.6 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-7-6/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-7-6/</guid>
+      <pubDate>Thu, 31 May 2018 12:05:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-7-6-header.B9nU-ear.png" alt="PSPDFKit 7.6 for iOS" /></p>Introducing PSPDFKit 7.6 for iOS — featuring non-destructive image documents, page templates, and stamp UI improvements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Exporting Images from PDF with PSPDFKit for macOS]]></title>
+      <link>https://www.nutrient.io/blog/exporting-images-from-pdf-with-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/exporting-images-from-pdf-with-pspdfkit/</guid>
+      <pubDate>Mon, 21 May 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.-AXE0TB0.png" alt="Exporting Images from PDF with PSPDFKit for macOS" /></p>We'll look at how a simple Swift script and PSPDFKit for macOS can be used to export image assets for your website or app from a vector PDF graphic, using an iOS app icon as an example.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Advances in Auto Layout]]></title>
+      <link>https://www.nutrient.io/blog/auto-layout-advances/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/auto-layout-advances/</guid>
+      <pubDate>Mon, 14 May 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D6dG1O0Z.png" alt="Advances in Auto Layout" /></p>An overview of how Auto Layout has changed in recent years and how to best use it.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Smart Punctuation in iOS: A Developer's Guide]]></title>
+      <link>https://www.nutrient.io/blog/ios-11-smart-punctuation/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ios-11-smart-punctuation/</guid>
+      <pubDate>Mon, 07 May 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.COu8vcTG.png" alt="Smart Punctuation in iOS: A Developer's Guide" /></p>Discover how iOS's Smart Punctuation affects string handling and learn best practices for developers managing text input in their apps.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Failable Methods with Djinni]]></title>
+      <link>https://www.nutrient.io/blog/failable-methods-with-djinni/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/failable-methods-with-djinni/</guid>
+      <pubDate>Thu, 29 Mar 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.D1gJ5gOo.png" alt="Failable Methods with Djinni" /></p>In this article, we have look at using result types to model failable computations in the Djinni IDL.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Leveraging SQLite Full-Text Search on iOS]]></title>
+      <link>https://www.nutrient.io/blog/leveraging-sqlite-full-text-search-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/leveraging-sqlite-full-text-search-on-ios/</guid>
+      <pubDate>Thu, 22 Mar 2018 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.o0r9c7PL.png" alt="Leveraging SQLite Full-Text Search on iOS" /></p>We look at SQLite’s FTS extension and how you can use it to add high performance search to your app.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[UICollectionView All the Things!]]></title>
+      <link>https://www.nutrient.io/blog/uicollectionview-all-the-things/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/uicollectionview-all-the-things/</guid>
+      <pubDate>Tue, 13 Mar 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.C2q2G4jB.png" alt="UICollectionView All the Things!" /></p>`UICollectionView` is now at the heart of every document. This blog post talks about why and how we rewrote our view hierarchy.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[First-Class Swift API for Objective-C Frameworks]]></title>
+      <link>https://www.nutrient.io/blog/first-class-swift-api-for-objective-c-frameworks/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/first-class-swift-api-for-objective-c-frameworks/</guid>
+      <pubDate>Fri, 02 Mar 2018 14:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BBKngczK.png" alt="First-Class Swift API for Objective-C Frameworks" /></p>Objective-C and Swift interoperability with PSPDFKitSwift]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 7.4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-7-4/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-7-4/</guid>
+      <pubDate>Fri, 02 Mar 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-7-4-header.DOE4WQrv.png" alt="PSPDFKit 7.4 for iOS" /></p>Introducing PSPDFKit 7.4 for iOS — featuring a new document features helper, text selection enhancements, and improved Swift interoperability.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[React Native UI Component for iOS]]></title>
+      <link>https://www.nutrient.io/blog/react-native-ui-component-for-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/react-native-ui-component-for-ios/</guid>
+      <pubDate>Thu, 01 Mar 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.B0jABvus.png" alt="React Native UI Component for iOS" /></p>Introducing a native UI component for showing PDFs in a React Native app with PSPDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Ways to Create a PDF on iOS]]></title>
+      <link>https://www.nutrient.io/blog/ways-to-create-a-pdf-on-ios/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ways-to-create-a-pdf-on-ios/</guid>
+      <pubDate>Mon, 26 Feb 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.CB_UT0co.png" alt="Ways to Create a PDF on iOS" /></p>We look at the different ways of creating a PDF on iOS.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Localization at PSPDFKit]]></title>
+      <link>https://www.nutrient.io/blog/localization-at-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/localization-at-pspdfkit/</guid>
+      <pubDate>Mon, 19 Feb 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.wxUzUzh-.png" alt="Localization at PSPDFKit" /></p>An overview of how localization is handled at PSPDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Binary Frameworks in Swift]]></title>
+      <link>https://www.nutrient.io/blog/binary-frameworks-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/binary-frameworks-swift/</guid>
+      <pubDate>Mon, 29 Jan 2018 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/article-header.BqD-PNLh.png" alt="Binary Frameworks in Swift" /></p>ABI? Module stability? What does binary stability mean, and how will it affect you?]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 7.3 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-7-3/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-7-3/</guid>
+      <pubDate>Fri, 12 Jan 2018 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-7-3-header.CYJK_zzw.png" alt="PSPDFKit 7.3 for iOS" /></p>Introducing PSPDFKit 7.3 for iOS. Featuring image document support, text selection enhancements, and Digital Signature improvements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adopting Drag and Drop on iOS]]></title>
+      <link>https://www.nutrient.io/blog/drag-and-drop/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/drag-and-drop/</guid>
+      <pubDate>Fri, 08 Dec 2017 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/drag-and-drop-header.Cx-41oiu.png" alt="Adopting Drag and Drop on iOS" /></p>Utilizing the new Drag and Drop feature in iOS 11, and how we integrated it to enhance the user experience.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Use vector stamps instead of blurry shapes]]></title>
+      <link>https://www.nutrient.io/blog/vector-stamps/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/vector-stamps/</guid>
+      <pubDate>Mon, 27 Nov 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/preview.BCqYKFud.png" alt="Use vector stamps instead of blurry shapes" /></p>Tips and tricks for using vector-based stamp annotations.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 7.1 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-7-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-7-1/</guid>
+      <pubDate>Fri, 17 Nov 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/ios-7-1-header.Cw6cqiIg.png" alt="PSPDFKit 7.1 for iOS" /></p>Introducing PSPDFKit 7.1 for iOS. Featuring iPhone X compatibility, copying and pasting document pages, drawing performance improvements, and more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Challenges of Supporting iPhone X]]></title>
+      <link>https://www.nutrient.io/blog/supporting-iphone-x/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/supporting-iphone-x/</guid>
+      <pubDate>Tue, 31 Oct 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/iphone-x-preview.OFOywVi2.png" alt="Challenges of Supporting iPhone X" /></p>Tips and tricks for adding support for the iPhone X in PSPDFKit.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[How to use iOS Data Protection (updated for iOS 17)]]></title>
+      <link>https://www.nutrient.io/blog/how-to-use-ios-data-protection/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/how-to-use-ios-data-protection/</guid>
+      <pubDate>Tue, 24 Oct 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/iphone-with-padlock.B5eDdXe8.png" alt="How to use iOS Data Protection (updated for iOS 17)" /></p>How apps can use iOS Data Protection to secure their files.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 7.0 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-7-0/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-7-0/</guid>
+      <pubDate>Wed, 04 Oct 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/v7-launch-hero.C8jOuNyp.png" alt="PSPDFKit 7.0 for iOS" /></p>Introducing PSPDFKit 7.0 for iOS. iOS 11 support. Drag and Drop. New View Hierarchy. Biometric Signatures. Checkpoints.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Introducing PDFXKit - A Drop-in Replacement for PDFKit]]></title>
+      <link>https://www.nutrient.io/blog/introducing-pdfxkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/introducing-pdfxkit/</guid>
+      <pubDate>Thu, 07 Sep 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/pdfxkit.B7pEaEiI.png" alt="Introducing PDFXKit - A Drop-in Replacement for PDFKit" /></p>]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Native View Controllers and React Native - It Just Works™]]></title>
+      <link>https://www.nutrient.io/blog/native-view-controllers-and-react-native/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/native-view-controllers-and-react-native/</guid>
+      <pubDate>Wed, 30 Aug 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/embedded_pspdfkit.DQeHN3Uy.jpg" alt="Native View Controllers and React Native - It Just Works™" /></p>]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.9 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-9/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-9/</guid>
+      <pubDate>Thu, 20 Jul 2017 18:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/text-markup.DSxUqdPN.png" alt="PSPDFKit 6.9 for iOS" /></p>Introducing PSPDFKit 6.9 for iOS. Text Markup Behavior. Catalog Refresh. Signature Improvements. UI Tweaks.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[User Breakpoints in Xcode]]></title>
+      <link>https://www.nutrient.io/blog/user-breakpoints-in-xcode/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/user-breakpoints-in-xcode/</guid>
+      <pubDate>Thu, 13 Jul 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/user-breakpoints-in-xcode.6WMLKLCN.png" alt="User Breakpoints in Xcode" /></p>User breakpoints are a not very well known feature in Xcode but they are very powerful and can improve your debugging experience and show issues more prominent.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.8 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-8/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-8/</guid>
+      <pubDate>Thu, 22 Jun 2017 14:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/watermark-detection.Zqp3_hIU.png" alt="PSPDFKit 6.8 for iOS" /></p>Introducing PSPDFKit 6.8 for iOS. Revamped Digital Signatures. Watermark Filtering. iOS 11. And More.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Even Swiftier Objective-C]]></title>
+      <link>https://www.nutrient.io/blog/even-swiftier-objective-c/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/even-swiftier-objective-c/</guid>
+      <pubDate>Wed, 14 Jun 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Linting and Code Formatting at PSPDFKit]]></title>
+      <link>https://www.nutrient.io/blog/linting-and-code-formatting-at-pspdfkit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/linting-and-code-formatting-at-pspdfkit/</guid>
+      <pubDate>Wed, 31 May 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/linting-and-code-formatting-at-pspdfkit.BH1_RLut.png" alt="Linting and Code Formatting at PSPDFKit" /></p>How we do code formatting in C++/Objective-C/Java/JavaScript]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.7 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-7/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-7/</guid>
+      <pubDate>Wed, 10 May 2017 14:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/page-grabber.RC_4PSMG.png" alt="PSPDFKit 6.7 for iOS" /></p>Introducing PSPDFKit 6.7 for iOS. Page Grabber. File Coordination. Document Progress Indication. Privacy Access Denied UI.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Creating Better User Experiences with Animations and Lottie]]></title>
+      <link>https://www.nutrient.io/blog/creating-better-user-experiences-with-animations-and-lottie/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/creating-better-user-experiences-with-animations-and-lottie/</guid>
+      <pubDate>Wed, 03 May 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/creating-better-user-experiences-with-animations-and-lottie.B1UL_VMr.png" alt="Creating Better User Experiences with Animations and Lottie" /></p>Improving an app’s User Experience made easy by adding animations powered by Lottie.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.6 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-6/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-6/</guid>
+      <pubDate>Thu, 06 Apr 2017 14:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/rtl-document.7HnpSRg-.png" alt="PSPDFKit 6.6 for iOS" /></p>Introducing PSPDFKit 6.6 for iOS. Right-to-Left Documents. Annotation Drawing. Line Thickness. Various Bug-fixes.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Internationalization - Right to Left Support for Mobile Apps]]></title>
+      <link>https://www.nutrient.io/blog/internationalization-right-to-left-support-for-mobile-apps/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/internationalization-right-to-left-support-for-mobile-apps/</guid>
+      <pubDate>Wed, 05 Apr 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/internationalization-rtl-support-title.kj_JrNUG.png" alt="Internationalization - Right to Left Support for Mobile Apps" /></p>What Right to Left Support Actually Means and How We Implemented It]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.5 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-5/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-5/</guid>
+      <pubDate>Thu, 09 Mar 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/marking-marks.0JBF_xSk.gif" alt="PSPDFKit 6.5 for iOS" /></p>Introducing PSPDFKit 6.5 for iOS. Better Apple Pencil Support. 3D Touch. Forms. UI Enhancements. Even More Improvements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-4/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-4/</guid>
+      <pubDate>Tue, 31 Jan 2017 18:00:00 GMT</pubDate>
+      <description><![CDATA[Introducing PSPDFKit 6.4 for iOS. RTL Support. Image Editor. FTS 5. Swift Enhancements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The Struggle with Action Extensions]]></title>
+      <link>https://www.nutrient.io/blog/action-extension/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/action-extension/</guid>
+      <pubDate>Tue, 24 Jan 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[Pitfalls when developing a Share or an Action Extension]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[The Case for Deprecating UITableView]]></title>
+      <link>https://www.nutrient.io/blog/the-case-for-deprecating-uitableview/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/the-case-for-deprecating-uitableview/</guid>
+      <pubDate>Thu, 19 Jan 2017 12:10:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Creating a Compelling Today Widget]]></title>
+      <link>https://www.nutrient.io/blog/today-widget/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/today-widget/</guid>
+      <pubDate>Wed, 11 Jan 2017 18:00:00 GMT</pubDate>
+      <description><![CDATA[Best Practices on Developing a Today Widget]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Super Fast Builds Using distcc]]></title>
+      <link>https://www.nutrient.io/blog/crazy-fast-builds-using-distcc/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/crazy-fast-builds-using-distcc/</guid>
+      <pubDate>Thu, 05 Jan 2017 12:00:00 GMT</pubDate>
+      <description><![CDATA[How to dramatically shorten your build times with distcc.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.3 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-3/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-3/</guid>
+      <pubDate>Wed, 21 Dec 2016 18:00:00 GMT</pubDate>
+      <description><![CDATA[Introducing PSPDFKit 6.3 for iOS. PSPDFKit Instant Compatibility. More Languages. UI Improvements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Hiding Your Action and Share Extensions In Your Own Apps]]></title>
+      <link>https://www.nutrient.io/blog/hiding-action-share-extensions-in-your-own-apps/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/hiding-action-share-extensions-in-your-own-apps/</guid>
+      <pubDate>Wed, 07 Dec 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.2 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-2/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-2/</guid>
+      <pubDate>Tue, 29 Nov 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[Announcing PSPDFKit 6.2 for iOS. Lock Annotations. Document Sharing. Customizations. Performance Improvements.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6.1 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-1/</guid>
+      <pubDate>Tue, 15 Nov 2016 18:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/v6_1_hero.B5CJS9hq.jpg" alt="PSPDFKit 6.1 for iOS" /></p>PSPDFKit 6.1 for iOS, featuring a whole new search interface overhaul, analytics integration and much more.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Running Tests with Clang's AddressSanitizer]]></title>
+      <link>https://www.nutrient.io/blog/test-with-asan/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/test-with-asan/</guid>
+      <pubDate>Tue, 18 Oct 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/xcode8-diagnostics-tsan.2V2OCk02.png" alt="Running Tests with Clang's AddressSanitizer" /></p>Clang has powerful sanitizers that are incredibly useful, so we collected our experiences using them between iOS, Android, and our C++ core to help you through some gotchas.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Debugging a specific instance with scripted breakpoints]]></title>
+      <link>https://www.nutrient.io/blog/scripted-breakpoints/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/scripted-breakpoints/</guid>
+      <pubDate>Wed, 28 Sep 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/command.rA2pW1vR.png" alt="Debugging a specific instance with scripted breakpoints" /></p>When debugging an issue that is somewhere deep inside your code, you easily end up debugging a class that has lots of living instances. Sometimes, you are only interested in a very particular one. This can become very tedious work.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 6 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-6-0/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-6-0/</guid>
+      <pubDate>Fri, 23 Sep 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/v6.pyfpbBTY.jpg" alt="PSPDFKit 6 for iOS" /></p>PSPDFKit 6 for iOS is fully optimized for Xcode 8 and iOS 10, comes with improved API for Swift 3, faster rendering, various fixes, and a visual refresh.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Writing good bug reports]]></title>
+      <link>https://www.nutrient.io/blog/writing-good-bug-reports/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/writing-good-bug-reports/</guid>
+      <pubDate>Tue, 13 Sep 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/radar-works.Csqaix7y.png" alt="Writing good bug reports" /></p>At PSPDFKit, we work every day to read through developers' bug reports. In fact, we forward many of them to the engineers at Apple. While this post is Apple-centric, many details can be applied to any sort of bug reporting.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Spicing up status messages]]></title>
+      <link>https://www.nutrient.io/blog/spicing-up-status-messages/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/spicing-up-status-messages/</guid>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://www.nutrient.io/_astro/hud.QNJa_O3B.png" alt="Spicing up status messages" /></p>At PSPDFKit, we likely spend just as much time polishing the UI as we do implementing PDF features or tweaking the performance. Here's a look at how one of our developers explored improving our status messages.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Converting Xcode Test Runs to JUnit, the Fast Way]]></title>
+      <link>https://www.nutrient.io/blog/converting-xcode-test-results-the-fast-way/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/converting-xcode-test-results-the-fast-way/</guid>
+      <pubDate>Thu, 11 Aug 2016 10:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Opening a PDF in Swift]]></title>
+      <link>https://www.nutrient.io/blog/opening-a-pdf-in-swift/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/opening-a-pdf-in-swift/</guid>
+      <pubDate>Wed, 27 Jul 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Preventing Popovers on Popovers]]></title>
+      <link>https://www.nutrient.io/blog/popovers-on-popovers/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/popovers-on-popovers/</guid>
+      <pubDate>Wed, 20 Jul 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Efficient iOS Version Checking]]></title>
+      <link>https://www.nutrient.io/blog/efficient-ios-version-checking/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/efficient-ios-version-checking/</guid>
+      <pubDate>Wed, 06 Jul 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 5.4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-5-4/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-5-4/</guid>
+      <pubDate>Fri, 01 Jul 2016 10:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Investigating Thread Safety of UIImage]]></title>
+      <link>https://www.nutrient.io/blog/investigating-thread-safety-of-uiimage/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/investigating-thread-safety-of-uiimage/</guid>
+      <pubDate>Thu, 30 Jun 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 5.3 for iOS and Beyond]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-5-3-and-beyond/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-5-3-and-beyond/</guid>
+      <pubDate>Wed, 08 Jun 2016 15:00:00 GMT</pubDate>
+      <description><![CDATA[PSPDFKit 5.3 for iOS includes customizable color picker, new display settings, and other features!]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Swifty Objective-C]]></title>
+      <link>https://www.nutrient.io/blog/swifty-objective-c/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/swifty-objective-c/</guid>
+      <pubDate>Thu, 26 May 2016 12:10:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Continuous iOS Code Coverage With Jenkins and Slather]]></title>
+      <link>https://www.nutrient.io/blog/continuous-ios-code-coverage-with-jenkins-and-slather/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/continuous-ios-code-coverage-with-jenkins-and-slather/</guid>
+      <pubDate>Wed, 11 May 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Running UI Tests on iOS With Ludicrous Speed]]></title>
+      <link>https://www.nutrient.io/blog/running-ui-tests-with-ludicrous-speed/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/running-ui-tests-with-ludicrous-speed/</guid>
+      <pubDate>Wed, 27 Apr 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Adding live search to Jazzy docs]]></title>
+      <link>https://www.nutrient.io/blog/adding-live-search-to-jazzy/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/adding-live-search-to-jazzy/</guid>
+      <pubDate>Mon, 18 Apr 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Debugging Rotation Issues]]></title>
+      <link>https://www.nutrient.io/blog/debugging-rotation-issues/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/debugging-rotation-issues/</guid>
+      <pubDate>Thu, 07 Apr 2016 11:00:00 GMT</pubDate>
+      <description><![CDATA[Discover how we resolved a freezing issue in our Document Editor app after rotation, ensuring smooth user interaction and event handling.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Surprises with Swift Extensions]]></title>
+      <link>https://www.nutrient.io/blog/surprises-with-swift-extensions/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/surprises-with-swift-extensions/</guid>
+      <pubDate>Thu, 24 Mar 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 5.2 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-5-2/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-5-2/</guid>
+      <pubDate>Wed, 17 Feb 2016 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 5.1 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-5-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-5-1/</guid>
+      <pubDate>Tue, 22 Dec 2015 12:00:00 GMT</pubDate>
+      <description><![CDATA[Discover PSPDFKit 5.1's improved integration, iOS 9 adaptivity, and enhanced night mode for a seamless annotation editing experience.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Presentation Controllers and Adaptive Presentations]]></title>
+      <link>https://www.nutrient.io/blog/presentation-controllers/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/presentation-controllers/</guid>
+      <pubDate>Wed, 25 Nov 2015 18:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[Using Ccache for Fun and Profit]]></title>
+      <link>https://www.nutrient.io/blog/ccache-for-fun-and-profit/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/ccache-for-fun-and-profit/</guid>
+      <pubDate>Tue, 06 Oct 2015 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 5 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-5-0/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-5-0/</guid>
+      <pubDate>Mon, 28 Sep 2015 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 4.4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-4-4/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-4-4/</guid>
+      <pubDate>Wed, 29 Apr 2015 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 4.3 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-4-3/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-4-3/</guid>
+      <pubDate>Fri, 06 Mar 2015 12:00:00 GMT</pubDate>
+      <description><![CDATA[Discover the stability improvements in PSPDFKit 4.3, featuring persistent back/forward navigation and enhanced Swift nullability support for better PDF handling]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 4.2 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-4-2/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-4-2/</guid>
+      <pubDate>Tue, 03 Feb 2015 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 4.1 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-4-1/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-4-1/</guid>
+      <pubDate>Wed, 05 Nov 2014 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-4-0/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-4-0/</guid>
+      <pubDate>Tue, 23 Sep 2014 12:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 3.7 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-3-7/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-3-7/</guid>
+      <pubDate>Tue, 22 Jul 2014 20:14:00 GMT</pubDate>
+      <description><![CDATA[Discover the new features of PSPDFKit 3.7, including customizable drawing styles and enhanced stylus support for a seamless annotation experience.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 3.6 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-3-6/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-3-6/</guid>
+      <pubDate>Sun, 30 Mar 2014 17:11:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 3.5 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-3-5/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-3-5/</guid>
+      <pubDate>Wed, 12 Feb 2014 09:02:00 GMT</pubDate>
+      <description><![CDATA[Explore the new PSPDFKit 3.5 with smarter resizing, improved keyboard support, and a custom annotation toolbar for a seamless PDF experience.]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 3.4 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-3-4/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-3-4/</guid>
+      <pubDate>Wed, 15 Jan 2014 09:39:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+<item>
+      <title><![CDATA[PSPDFKit 3.3 for iOS]]></title>
+      <link>https://www.nutrient.io/blog/pspdfkit-ios-3-3/</link>
+      <guid isPermaLink="false">https://www.nutrient.io/blog/pspdfkit-ios-3-3/</guid>
+      <pubDate>Sun, 29 Dec 2013 08:00:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>undefined</category>
+      <category>undefined</category>
+    </item>
+  </channel>
+</rss>
