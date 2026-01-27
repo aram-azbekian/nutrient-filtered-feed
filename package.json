@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "node-fetch": "2.6.7",
+    "xml2js": "^0.6.2"
+  },
+  "scripts": {
+    "build": "node build.js"
+  }
+}
